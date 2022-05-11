@@ -58,7 +58,7 @@ html[data-theme='dark'] .navbar{
 }
 
 .menu__link{
-  font-weight: 400;
+  font-weight: 400;font-size: 14px;
 }
 .theme-doc-sidebar-item-category-level-1 >.menu__list-item-collapsible >.menu__link{
   font-weight: 500 !important;
@@ -80,4 +80,13 @@ div[class^=announcementBar_] {
   --site-announcement-bar-stripe-color2: hsl(var(--site-primary-hue-saturation) 95%);
   background: repeating-linear-gradient(35deg,var(--site-announcement-bar-stripe-color1),var(--site-announcement-bar-stripe-color1) 20px,var(--site-announcement-bar-stripe-color2) 10px,var(--site-announcement-bar-stripe-color2) 40px);
   font-weight: 700;
+}
+.menu__caret:before {
+  content: '';
+  background: var(--ifm-menu-link-sublist-icon) 50% / 1rem 1rem;
+  filter: var(--ifm-menu-link-sublist-icon-filter);
+  height: 1.25rem;
+  transform: rotate(180deg);
+  width: 1.25rem;
+  transition: transform var(--ifm-transition-fast) linear;
 }

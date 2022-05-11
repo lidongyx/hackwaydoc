@@ -9,7 +9,7 @@ sidebar_position: 1
 
 :::info 说明
 
-本学习路线主要参考美国四大CS名校（卡耐基梅隆CMU、斯坦福Stanford、加州伯克利UC Berkeley、麻省理工MIT）以及哈佛Harvard、普林斯顿Princeton等计算机名校的课程安排与内容，非常适合有追求的学生和 CS 爱好者学习。
+本学习路线主要参考美国四大CS名校（卡耐基梅隆CMU、斯坦福Stanford、加州伯克利UC Berkeley、麻省理工MIT）以及哈佛Harvard、普林斯顿Princeton等6所计算机名校的课程安排与内容，非常适合有追求的学生和 CS 爱好者学习。
 
 :::
 
