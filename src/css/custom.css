@@ -26,9 +26,9 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .theme-doc-markdown ul,.theme-doc-markdownarticle ol{
-  border-left: 4px solid #6fcbd0;
-  padding-right: 15px;
-  background-color: #f0f8ff;
+  padding: 25px 15px 20px 30px;
+  background-color: rgb(175 234 248 / 15%);
+  border-radius: 8px;
   color: #757171;
   line-height: 2em;
   list-style: disc;
@@ -90,3 +90,19 @@ div[class^=announcementBar_] {
   width: 1.25rem;
   transition: transform var(--ifm-transition-fast) linear;
 }
+blockquote{
+  border-left: none;
+  border: 1px dashed #757171;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px 0 rgb(230 227 227 / 80%);
+  color: var(--ifm-blockquote-color);
+  font-size: 14px;
+  line-height: 25px;
+  margin: 0 0 1rem;
+  padding: 20px 15px;
+  opacity: 0.9;
+  background-image: radial-gradient(#66db27 0.5px, transparent 0.5px), radial-gradient(#137f1a 0.5px, #fffff4 0.5px);
+  background-size: 20px 20px;
+  background-position: 0 0,10px 10px;
+}
+

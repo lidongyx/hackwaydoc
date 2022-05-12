@@ -1,8 +1,13 @@
 ---
 sidebar_position: 1
+title: 计算机科学导论
 ---
 
 # 计算机科学导论
+
+
+
+
 export const H = ({children, color}) => (
   <span
     style={{
@@ -14,8 +19,6 @@ export const H = ({children, color}) => (
     {children}
   </span>
 );
-
-
 
 计算机专业入门的第一课通常被称之为“CS0”，课程名字为 <H color="#25c2a0">“计算机科学导论”</H> 或 <H color="#25c2a0">“计算机科学概论”</H>，这门课主要向没有学习过任何前置知识的新人介绍计算机科学是什么，当走进大学时应该学习什么，非常适合高考刚毕业的准大学生、大一新生、计算机自学爱好者等。
 
@@ -80,5 +83,35 @@ Crash Course Computer Science
 ## 书籍推荐
 
 《编码》
+
+
+
+
+
+import Giscus from '@giscus/react';
+export const Comment =()=> {
+  return (
+   <div className="comments-container">
+      <Giscus
+        src="https://giscus.app/client.js"
+        id="comments"
+        repo="lidongyx/hackwaydoc"
+        repoId="R_kgDOHUMOyA"
+        category="Announcements"
+        categoryId="DIC_kwDOHUMOyM4CPCtD"
+        mapping="title"
+        reactionsEnabled="1"
+        emitMetadata="0"
+        inputPosition="top"
+        theme="light"
+        lang="zh-CN"
+        crossorigin="anonymous"
+      />
+    </div>
+  );
+}
+
+<Comment></Comment>
+
 
 
