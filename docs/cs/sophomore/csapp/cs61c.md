@@ -17,7 +17,7 @@ sidebar_position: 1
 
 **B站视频地址：**[UC Berkeley 公开课-CS61C (Fall 2021)](https://www.bilibili.com/video/BV1Lu411X7u7)
 
-<iframe src="//player.bilibili.com/player.html?aid=509183844&bvid=BV1Lu411X7u7&cid=515222349&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=509183844&bvid=BV1Lu411X7u7&cid=515222349&page=1" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px"> </iframe>
 
 
 

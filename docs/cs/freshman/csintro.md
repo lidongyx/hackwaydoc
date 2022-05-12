@@ -5,9 +5,6 @@ title: 计算机科学导论
 
 # 计算机科学导论
 
-
-
-
 export const H = ({children, color}) => (
   <span
     style={{
@@ -19,6 +16,24 @@ export const H = ({children, color}) => (
     {children}
   </span>
 );
+
+export const Book = ({url,img,title}) =>(
+<div class="bookitem">
+  <a href={url} target="_blank" class="book-content">
+    <div class="book-img">
+      <img src={img} />
+    </div>
+    <div class="book-detail">
+      <div class="book-title">{title}</div>
+      <div class="boook-desc">
+        <img width="25" height="25" src="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/jd.svg" />
+        <div class="book-jd">去京东购买支持正版</div>
+      </div>
+    </div>
+  </a>
+  </div> 
+);
+
 
 计算机专业入门的第一课通常被称之为“CS0”，课程名字为 <H color="#25c2a0">“计算机科学导论”</H> 或 <H color="#25c2a0">“计算机科学概论”</H>，这门课主要向没有学习过任何前置知识的新人介绍计算机科学是什么，当走进大学时应该学习什么，非常适合高考刚毕业的准大学生、大一新生、计算机自学爱好者等。
 
@@ -82,7 +97,9 @@ Crash Course Computer Science
 
 ## 书籍推荐
 
-《编码》
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s27331702.jpeg" url="https://item.jd.com/13467838.html" title="编码：隐匿在计算机软硬件背后的语言"></Book>
+
+
 
 
 

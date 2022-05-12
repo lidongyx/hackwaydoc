@@ -23,9 +23,8 @@ export const Comment =()=> {
         repo="lidongyx/hackwaydoc"
         repoId="R_kgDOHUMOyA"
         category="Announcements"
-        categoryId="DIC_kwDOHUMOyM4CPDOg"
+        categoryId="DIC_kwDOHUMOyM4CPCtD"
         mapping="title"
-        term="Welcome to @giscus/react component!"
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="top"
@@ -38,3 +37,5 @@ export const Comment =()=> {
 }
 
 <Comment></Comment>
+
+
