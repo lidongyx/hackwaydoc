@@ -40,11 +40,14 @@ code{
   font-size: 30px;
 }
 .theme-doc-markdown >h2{
-  font-size: 20px;
   background-color: #fcb42b;
-  padding: 5px 15px;
-  margin-bottom: 15px;
+  border-radius: 4px;
   color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  padding: 5px 15px;
+  box-shadow: 0 4px 10px 0 hsl(0deg 6% 90% / 80%);
 }
 .theme-doc-markdown >h3{
   font-size: 18px;
