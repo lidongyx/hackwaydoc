@@ -3,13 +3,82 @@ displayed_sidebar: csSidebar
 sidebar_position: 1
 ---
 
-
 # 计算机专业学习路线
-计算机专业或想通过自学的方式转专业、转型计算机的同学，应该如何在大学四年里循序渐进地系统掌握扎实的计算机科学知识，做到想继续深造时不脱离科研，又能够在毕业时找到大厂的工作，希望这份计算机专业学习路线图能够给你带来帮助。
+
+export const Book = ({url,img,title}) =>(
+<div class="bookitem">
+  <a href={url} target="_blank" class="book-content">
+    <div class="book-img">
+      <img src={img} />
+    </div>
+    <div class="book-detail">
+      <div class="book-title">{title}</div>
+      <div class="boook-desc">
+        <img width="25" height="25" src="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/jd.svg" />
+        <div class="book-jd">去京东购买支持正版</div>
+      </div>
+    </div>
+  </a>
+  </div> 
+);
+
+export const H = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+import Giscus from '@giscus/react';
+export const Comment =()=> {
+  return (
+   <div className="comments-container">
+      <Giscus
+        src="https://giscus.app/client.js"
+        id="comments"
+        repo="lidongyx/hackwaydoc"
+        repoId="R_kgDOHUMOyA"
+        category="Announcements"
+        categoryId="DIC_kwDOHUMOyM4CPCtD"
+        mapping="title"
+        reactionsEnabled="1"
+        emitMetadata="0"
+        inputPosition="top"
+        theme="light"
+        lang="zh-CN"
+        crossorigin="anonymous"
+      />
+    </div>
+  );
+}
+
+import AdSense from 'react-adsense';
+export const Ad =()=> {
+  return (
+    <div className="ad-container">
+      <AdSense.Google
+        client='ca-pub-3564174644141518'
+        slot='1473297334'
+        style={{ display: 'block' }}
+        format='auto'
+        responsive='true'/>
+    </div>
+  )
+}
+
+>什么是计算机科学？伯克利将计算机科学广义地定义为包括计算理论、算法的设计与分析、计算机体系结构与逻辑设计、编程语言、编译器、操作系统、科学计算、计算机图形学、数据库、人工智能和自然语言处理。
+
+## 关于本学习路线
+计算机专业、或转专业、或自学成才、或培训班的童鞋，应该如何循序渐进地掌握系统而扎实的计算机科学知识，让自己拥有名校科班的实力，无论是从事科研抑或找工作都具有竞争力，希望这份来自世界一流名校的学习路线资源能够帮到你。
 
 :::info 说明
 
-本学习路线主要参考美国四大CS名校（卡耐基梅隆CMU、斯坦福Stanford、加州伯克利UC Berkeley、麻省理工MIT）以及哈佛Harvard、普林斯顿Princeton等6所计算机名校的课程安排与内容，非常适合有追求的学生和 CS 爱好者学习。
+本学习路线主要参考美国四大CS名校（卡耐基梅隆CMU、斯坦福Stanford、加州伯克利UC Berkeley、麻省理工MIT）以及哈佛Harvard、普林斯顿Princeton等6所计算机名校的课程安排与内容，详细列出了配套的视频、书籍、项目等相关资源。
 
 :::
 
@@ -19,16 +88,16 @@ sidebar_position: 1
 - **中文化的推荐资料** ：考虑到网络原因，大多数学生访问国外资源速度会比较慢，同时很多同学的英语水平比较有限，因此会尽量采用国内的视频资源比如B站，列出每个课程参考资料相应的中文教材，以及尽可能将资料做到国内的学生都可以访问；
 - **中文社区** ：本学习路线配有一个微信社群，欢迎大家加入
 
-## 关于课程内容
+## 为什么要按这个学习路线来学？
 国内不同院校在计算机专业的课程内容、进度的安排上有着非常大的差异，相比美国CS名校的课程而言，存在着诸多不足，比如：
 
 - 国内院校更偏向于使用C语言作为入门的编程语言，而美国CS名校则都是采用Python，无论是在知识的循序渐进上、项目的实践上以及计算机系统的分层教学上，Python都比C更为友好；
 - 国内不少院校的计算机教学还停留在“黑板教学”、“PPT教学”上，这让学生死记硬背理论，却无法真正理解；而国外相关的作业、项目、Lab等实践性的资源十分丰富，比如大一阶段就能够进行全栈项目的开发；
 - 国内不少院校在课程内容的安排上，大学物理、数电、模电、电子实验等都是必修，而这些课程在国外通常属于“EE”课程，而不是“CS”课程，计算机专业的学生可以根据自己的爱好来进行选修这些课程，应该把更多精力放在计算机专业的核心课程上；
-- 
+- 国内不少大专院校的课程安排过于偏向技校，而一些211、985院校的课程过于杂而不精，学校的教学内容十分陈旧且脱离企业生产实践，导致不少计算机专业的学生毕业之后达不到企业的用人需求；
 
+这六大顶级名校的课程由浅入深、循序渐进，让学生更加容易接受和理解；课程包含大量作业与项目实践，让学生不仅能够熟练的编写代码，而且还教如何写好代码；课程内容与时俱进，符合当前大厂对学生技能的需求；教学内容十分深入，即便是国内985名校的学生也强烈推荐学习。
 
-比如不少大专院校的课程安排过于偏向技校，一些211、985院校的课程过于杂而不精，
 
 ## 关于学习内容
 计算机专业

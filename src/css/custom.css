@@ -168,4 +168,7 @@ blockquote{
   .course-video{
     height: 300px;
   }
+  .theme-doc-toc-mobile{
+    display: none;
+  }
 }
