@@ -1,14 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 ---
 
-# CS伟大的实践工具
->**课程名称：** Structure and Interpretation of Computer Programs  
-**课程官网地址：**[1986年Lisp版本](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
-**前置课程：** 无  
-**重要程度：** ※※※※※  
-**课程评点：** 
-
+# Stanford 计算机科学专业
 
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
@@ -27,7 +21,7 @@ export const Book = ({url,img,title}) =>(
   </div> 
 );
 
-export const Highlight = ({children, color}) => (
+export const H = ({children, color}) => (
   <span
     style={{
       backgroundColor: color,
@@ -76,8 +70,19 @@ export const Ad =()=> {
   )
 }
 
+>斯坦福大学计算机专业的课程可以直接通过它的课程编号知道它的难易程度以及所属领域，比如深度学习的课程cs231n，这里的编号2指的是二年级，300-399是大三，而0-99则是没有基础的。
 
-这门课只有2个学分，主课一般都是9到12个学分，属于选修，主要是掌握Linux的一些操作，如编辑器Emacs、命令行、Git、Latex、Bash、包管理、Makefiles以及React Native等，相当于是教一些计算机的基础操作。
+## 课程说明
+斯坦福计算机专业主要分为零基础导论课或实践课、核心必修课程、专业方向必修、专业选修以及研究型课程。
+
+零基础导论课或实践课，是给高中生的AP课程或大一零基础的新生准备的，这些课程都不是必修课程；如果你是高考刚结束，或者大一上学期的学生，可以学习这些课程；
+核心必修课程，是计算机专业所有方向必修，也是我们学习和参考的重点，核心必修课程包括系统部分和理论部分，
+专业方向必修，专业方向包含人工智能、系统、计算机工程、图形学、人机交互、信息、系统、理论以及混杂、自主选择等，每个方向都有一些必修课程；
+专业方向选修，你可以根据要求在选定的专业方向再选修一些课程，斯坦福大学的选修课非常丰富
 
 
-课程地址：[15-131 – Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
+
+
+
+<Comment></Comment>
+

@@ -1,14 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
-# CS伟大的实践工具
->**课程名称：** Structure and Interpretation of Computer Programs  
-**课程官网地址：**[1986年Lisp版本](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
-**前置课程：** 无  
-**重要程度：** ※※※※※  
-**课程评点：** 
-
+# CMU 计算机科学专业
 
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
@@ -27,7 +21,7 @@ export const Book = ({url,img,title}) =>(
   </div> 
 );
 
-export const Highlight = ({children, color}) => (
+export const H = ({children, color}) => (
   <span
     style={{
       backgroundColor: color,
@@ -76,8 +70,15 @@ export const Ad =()=> {
   )
 }
 
+>卡内基梅隆大学CMU号称自己是世界上第一个开设计算机专业的学校（开设于1965年，另有说是普渡大学1962年），CMU的计算机堪称可以载入史册的化石级。  
+计算机科学可以说是CMU之魂，有点“全民CS”的味道。对于其他很多学校来说，计算机可能只是一个系，而CMU则有独立的计算机学院。不仅如此，它的其它学院如艺术学院、理工学院、商学院、科学院等都有一定数量的计算机方面的课程。
 
-这门课只有2个学分，主课一般都是9到12个学分，属于选修，主要是掌握Linux的一些操作，如编辑器Emacs、命令行、Git、Latex、Bash、包管理、Makefiles以及React Native等，相当于是教一些计算机的基础操作。
+## 课程说明
+
+## 课程体系
 
 
-课程地址：[15-131 – Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
+
+
+<Comment></Comment>
+

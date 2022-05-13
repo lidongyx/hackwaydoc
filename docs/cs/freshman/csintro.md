@@ -4,18 +4,11 @@ title: 计算机科学导论
 ---
 
 # 计算机科学导论
-
-export const H = ({children, color}) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '2px',
-      color: '#fff',
-      padding: '0.2rem',
-    }}>
-    {children}
-  </span>
-);
+>**课程名称：** Crash Course Computer Science  
+**课程官网地址：**[2022年](https://cs50.harvard.edu/x/2022/)  
+**前置课程：** 零基础可学  
+**重要程度：** ※※※   
+**课程评点：** CS50系列课程可以说是哈佛大学一个现象级的课程，也是哈佛大学最受欢迎的课程之一。这门课主要面向高中生和计算机专业大一的学生。    
 
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
@@ -34,7 +27,57 @@ export const Book = ({url,img,title}) =>(
   </div> 
 );
 
+export const H = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
 
+import Giscus from '@giscus/react';
+export const Comment =()=> {
+  return (
+   <div className="comments-container">
+      <Giscus
+        src="https://giscus.app/client.js"
+        id="comments"
+        repo="lidongyx/hackwaydoc"
+        repoId="R_kgDOHUMOyA"
+        category="Announcements"
+        categoryId="DIC_kwDOHUMOyM4CPCtD"
+        mapping="title"
+        reactionsEnabled="1"
+        emitMetadata="0"
+        inputPosition="top"
+        theme="light"
+        lang="zh-CN"
+        crossorigin="anonymous"
+      />
+    </div>
+  );
+}
+
+import AdSense from 'react-adsense';
+export const Ad =()=> {
+  return (
+    <div className="ad-container">
+      <AdSense.Google
+        client='ca-pub-3564174644141518'
+        slot='1473297334'
+        style={{ display: 'block' }}
+        format='auto'
+        responsive='true'/>
+    </div>
+  )
+}
+
+## 课程说明
+### ① 课程介绍
 计算机专业入门的第一课通常被称之为“CS0”，课程名字为 <H color="#25c2a0">“计算机科学导论”</H> 或 <H color="#25c2a0">“计算机科学概论”</H>，这门课主要向没有学习过任何前置知识的新人介绍计算机科学是什么，当走进大学时应该学习什么，非常适合高考刚毕业的准大学生、大一新生、计算机自学爱好者等。
 
 :::tip 提示
@@ -44,7 +87,7 @@ export const Book = ({url,img,title}) =>(
 :::
 
 
-## 学习视频
+### ② 学习视频
 
 Crash Course Computer Science
 
@@ -100,33 +143,6 @@ Crash Course Computer Science
 <Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s27331702.jpeg" url="https://item.jd.com/13467838.html" title="编码：隐匿在计算机软硬件背后的语言"></Book>
 
 
-
-
-
-
-
-import Giscus from '@giscus/react';
-export const Comment =()=> {
-  return (
-   <div className="comments-container">
-      <Giscus
-        src="https://giscus.app/client.js"
-        id="comments"
-        repo="lidongyx/hackwaydoc"
-        repoId="R_kgDOHUMOyA"
-        category="Announcements"
-        categoryId="DIC_kwDOHUMOyM4CPCtD"
-        mapping="title"
-        reactionsEnabled="1"
-        emitMetadata="0"
-        inputPosition="top"
-        theme="light"
-        lang="zh-CN"
-        crossorigin="anonymous"
-      />
-    </div>
-  );
-}
 
 <Comment></Comment>
 

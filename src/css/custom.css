@@ -26,6 +26,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .theme-doc-markdown ul,.theme-doc-markdownarticle ol{
+  font-size: 14px;
   padding: 25px 15px 20px 30px;
   background-color: rgb(175 234 248 / 15%);
   border-radius: 8px;
@@ -115,7 +116,7 @@ blockquote{
   display: flex;
   border:1px solid #757171;
   width: 500px;
-  padding: 14px;
+  padding: 14px 14px 0;
   max-width: 100%;
   min-height: 88px;
   margin: 1em auto;
@@ -138,7 +139,7 @@ blockquote{
   -ms-flex-negative: 0;
   flex-shrink: 0;
   height: 100px;
-  width: 100px;
+  width: 80px;
   border-radius: 6px;
   overflow: hidden;
 }
@@ -155,4 +156,16 @@ blockquote{
   font-size: 14px;
   color: #f60;
   font-weight: bolder;
+}
+.course-video{
+  height: 500px;
+}
+
+
+
+
+@media screen and (max-width: 996px) {
+  .course-video{
+    height: 300px;
+  }
 }
