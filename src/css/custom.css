@@ -161,7 +161,9 @@ blockquote{
   height: 500px;
 }
 
-
+.navbar__logo{
+  height: 2.5rem !important;
+}
 
 
 @media screen and (max-width: 996px) {
