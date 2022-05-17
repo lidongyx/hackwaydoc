@@ -1,8 +1,4 @@
 {
   "label": "算法导论",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
-  }
+  "position": 1
 }
