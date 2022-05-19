@@ -143,7 +143,7 @@ export const Ad =()=> {
 
 **前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS107 计算科学的系统开发](https://hackway.org//docs/cs/sophomore/software/cs107)
+**学习地址：** [CS107 计算科学的系统开发](https://hackway.org/docs/cs/sophomore/software/cs107)
 
 
 ### ③ CS109 数据科学概论
@@ -151,7 +151,7 @@ export const Ad =()=> {
 
 **前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS109 数据科学概论](https://hackway.org//docs/cs/freshman/data/cs109)
+**学习地址：** [CS109 数据科学概论](https://hackway.org/docs/cs/freshman/data/cs109)
 
 
 ### ④ CS51 计算中的抽象与设计
@@ -159,14 +159,14 @@ export const Ad =()=> {
 
 **前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS51 计算中的抽象与设计](https://hackway.org//docs/cs/sophomore/programming/cs51)
+**学习地址：** [CS51 计算中的抽象与设计](https://hackway.org/docs/cs/sophomore/programming/cs51)
 
 ### ⑤ CS61  系统编程和计算机组成原理	
 计算机系统编程、机器组织和性能调整的基础知识。本课程提供扎实的系统编程背景以及对低级机器组织和设计的深刻理解。主题包括 C 和汇编语言编程、程序优化、内存层次结构和缓存、虚拟内存和动态内存管理、并发、线程和同步。
 
-**前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)、[CS51 计算中的抽象与设计](https://hackway.org//docs/cs/sophomore/programming/cs51)
+**前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)、[CS51 计算中的抽象与设计](https://hackway.org/docs/cs/sophomore/programming/cs51)
 
-**学习地址：** [CS61  系统编程和计算机组成原理](https://hackway.org//docs/cs/sophomore/system/cs61)
+**学习地址：** [CS61  系统编程和计算机组成原理](https://hackway.org/docs/cs/sophomore/system/cs61)
 
 
 ### ⑥ CS120  算法、可计算性和复杂性导论
@@ -175,7 +175,7 @@ export const Ad =()=> {
 
 **前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS120  算法、可计算性和复杂性导论](https://hackway.org//docs/cs/junior/reasoning/cs120)
+**学习地址：** [CS120  算法、可计算性和复杂性导论](https://hackway.org/docs/cs/junior/reasoning/cs120)
 
 
 ### ⑦ CS124	数据结构和算法	
@@ -183,7 +183,7 @@ export const Ad =()=> {
 
 **前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS124	数据结构和算法](https://hackway.org//docs/cs/sophomore/algorithm/cs124)
+**学习地址：** [CS124	数据结构和算法](https://hackway.org/docs/cs/sophomore/algorithm/cs124)
 
 
 ### ⑧ CS141 计算硬件
@@ -191,7 +191,7 @@ export const Ad =()=> {
 
 **前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS141 计算硬件](https://hackway.org//docs/cs/senior/architecture/cs141)
+**学习地址：** [CS141 计算硬件](https://hackway.org/docs/cs/senior/architecture/cs141)
 
 
 ### ⑨ CS153 编译器
@@ -199,21 +199,21 @@ export const Ad =()=> {
 
 **前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS153 编译器](https://hackway.org//docs/cs/junior/compiler/cs153)
+**学习地址：** [CS153 编译器](https://hackway.org/docs/cs/junior/compiler/cs153)
 
 ### ⑩ CS161 操作系统
 本课程侧重于现代操作系统的设计和实现。本课程讨论线程、进程、虚拟内存、调度程序以及操作系统用来表示活动计算的其他基本原语。系统调用接口的探索解释了应用程序如何与硬件和其他同时执行的程序进行交互。流行文件系统的案例研究揭示了操作系统如何在崩溃和意外重启的情况下提高 IO 的效率和稳健性。学生还将了解虚拟化如何允许物理机将其资源分配到多个虚拟机中。课堂主题通过一系列使用真实操作系统的密集编程作业得到强化。
 
 **前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS161 操作系统](https://hackway.org//docs/cs/sophomore/operating/cs161)
+**学习地址：** [CS161 操作系统](https://hackway.org/docs/cs/sophomore/operating/cs161)
 
 ### ⑪ CS165 数据系统
 本课程是对现代数据系统的全面介绍。本课程的主要重点是目前正在塑造数据管理行业的现代趋势：列存储和混合系统、无共享架构、缓存意识算法、硬件/软件协同设计、主内存系统、自适应索引、流处理、科学数据管理和键值存储。我们还研究数据系统的历史、传统和开创性的概念和思想，例如关系模型、行存储数据库系统、优化、索引、并发控制、恢复和 SQL。
 
 **前置课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS165 数据系统](https://hackway.org//docs/cs/junior/database/cs165)
+**学习地址：** [CS165 数据系统](https://hackway.org/docs/cs/junior/database/cs165)
 
 <Comment></Comment>
 
