@@ -183,4 +183,7 @@ blockquote{
   .theme-doc-toc-mobile{
     display: none;
   }
+  .navbar-sidebar__brand {
+    background-color: #f60;
+  }
 }
