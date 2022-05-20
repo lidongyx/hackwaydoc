@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# 斯坦福 CS 103 计算的数学基础
+# 伯克利 CS61A 计算机程序的构造和解释
 
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
@@ -70,15 +70,16 @@ export const Ad =()=> {
   )
 }
 
-
 >**课程名称：** Structure and Interpretation of Computer Programs  
 **课程官网地址：**[1986年Lisp版本](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
 **前置课程：** 无  
-**重要程度：** ※※※※※  
-**课程评点：** 
+**重要程度：** Berkerly入门第一课    
+**课程评点：** 这门课是全美计算机五大名课之一；建议和MIT6.0001一起参考学习；
 
+前置课为CS 10，需同步学习MATH1A微积分，推荐的教材为SICP，以及线上教材Composing Programs。
 
 
 
 <Comment></Comment>
+
 
