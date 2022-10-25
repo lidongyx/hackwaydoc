@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.20",
-    "@docusaurus/plugin-google-gtag": "^2.0.0-beta.20",
+    "@docusaurus/plugin-google-gtag": "2.0.0-beta.20",
     "@docusaurus/preset-classic": "2.0.0-beta.20",
     "@giscus/react": "latest",
     "@mdx-js/react": "^1.6.22",
