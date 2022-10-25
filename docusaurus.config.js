@@ -185,11 +185,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      googleAdsense: {
-        dataAdClient: 'ca-pub-3564174644141518',
-      },
+      // googleAdsense: {
+      //   dataAdClient: 'ca-pub-3564174644141518',
+      // },
     }),
-  plugins: ['docusaurus-plugin-google-adsense'],
+  // plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;
