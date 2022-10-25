@@ -60,9 +60,73 @@ const config = {
         },
         items: [
           {
-            to:'/docs/cs/intro',
-            position: 'left',
+            type: 'dropdown',
             label: '计算机专业',
+            position: 'left',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'csSidebar',
+                label: '学习路线',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'csSidebar',
+                label: '知识点与面试',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'csSidebar',
+                label: '项目案例',
+              },
+              // ... more items
+            ],
+          },
+          {
+            type: 'dropdown',
+            label: '前端开发',
+            position: 'left',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'jsSidebar',
+                label: '学习路线',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'javaSidebar',
+                label: '知识点与面试',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'goSidebar',
+                label: '项目案例',
+              },
+              // ... more items
+            ],
+          },
+          {
+            type: 'dropdown',
+            label: 'Java开发',
+            position: 'left',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'javaSidebar',
+                label: '学习路线',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'javaSidebar',
+                label: '知识点与面试',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'goSidebar',
+                label: '项目案例',
+              },
+              // ... more items
+            ],
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
@@ -121,7 +185,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      googleAdsense: {
+        dataAdClient: 'ca-pub-3564174644141518',
+      },
     }),
+  plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;
