@@ -69,65 +69,65 @@ const config = {
                 sidebarId: 'csSidebar',
                 label: '学习路线',
               },
-              {
-                type: 'docSidebar',
-                sidebarId: 'csSidebar',
-                label: '知识点与面试',
-              },
-              {
-                type: 'docSidebar',
-                sidebarId: 'csSidebar',
-                label: '项目案例',
-              },
+              // {
+              //   type: 'docSidebar',
+              //   sidebarId: 'csSidebar',
+              //   label: '知识点与面试',
+              // },
+              // {
+              //   type: 'docSidebar',
+              //   sidebarId: 'csSidebar',
+              //   label: '项目案例',
+              // },
               // ... more items
             ],
           },
-          {
-            type: 'dropdown',
-            label: '前端开发',
-            position: 'left',
-            items: [
-              {
-                type: 'docSidebar',
-                sidebarId: 'jsSidebar',
-                label: '学习路线',
-              },
-              {
-                type: 'docSidebar',
-                sidebarId: 'javaSidebar',
-                label: '知识点与面试',
-              },
-              {
-                type: 'docSidebar',
-                sidebarId: 'goSidebar',
-                label: '项目案例',
-              },
-              // ... more items
-            ],
-          },
-          {
-            type: 'dropdown',
-            label: 'Java开发',
-            position: 'left',
-            items: [
-              {
-                type: 'docSidebar',
-                sidebarId: 'javaSidebar',
-                label: '学习路线',
-              },
-              {
-                type: 'docSidebar',
-                sidebarId: 'javaSidebar',
-                label: '知识点与面试',
-              },
-              {
-                type: 'docSidebar',
-                sidebarId: 'goSidebar',
-                label: '项目案例',
-              },
-              // ... more items
-            ],
-          },
+          // {
+          //   type: 'dropdown',
+          //   label: '前端开发',
+          //   position: 'left',
+          //   items: [
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'jsSidebar',
+          //       label: '学习路线',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'javaSidebar',
+          //       label: '知识点与面试',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'goSidebar',
+          //       label: '项目案例',
+          //     },
+          //     // ... more items
+          //   ],
+          // },
+          // {
+          //   type: 'dropdown',
+          //   label: 'Java开发',
+          //   position: 'left',
+          //   items: [
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'javaSidebar',
+          //       label: '学习路线',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'javaSidebar',
+          //       label: '知识点与面试',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'goSidebar',
+          //       label: '项目案例',
+          //     },
+          //     // ... more items
+          //   ],
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
