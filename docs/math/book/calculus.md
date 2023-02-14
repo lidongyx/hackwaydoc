@@ -1,9 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# 伯克利 CS70 离散数学和概率论
-
+# 微积分
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
   <a href={url} target="_blank" class="book-content">
@@ -71,6 +70,8 @@ export const Ad =()=> {
 }
 
 
+
+
 >**课程名称：** Structure and Interpretation of Computer Programs  
 **课程官网地址：**[1986年Lisp版本](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
 **前置课程：** 无  
@@ -78,18 +79,10 @@ export const Ad =()=> {
 **课程评点：** 
 
 
-伯克利的离散数学入门课程，个人觉得这门课最大的亮点在于并不是单纯的理论知识的讲授，而是在每个模块都会介绍理论知识在实际算法中的运用，让计算机系的学生在夯实理论基础的同时，跳脱出冰冷形式化的数学符号，在实际应用中感受和体会理论的本质。
+这门课只有2个学分，主课一般都是9到12个学分，属于选修，主要是掌握Linux的一些操作，如编辑器Emacs、命令行、Git、Latex、Bash、包管理、Makefiles以及React Native等，相当于是教一些计算机的基础操作。
 
-具体的理论与算法的对应关系列举如下：
 
-逻辑证明：稳定匹配算法
-图论：网络拓扑设计
-基础数论：RSA 算法
-多项式环：纠错码设计
-概率论：哈希表设计、负载均衡等等
-课程 notes 也写得非常深入浅出，公式推导与实际例子星罗棋布，阅读体验很好。
-
+课程地址：[15-131 – Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
 
 
 <Comment></Comment>
-

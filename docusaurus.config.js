@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'hackway.org',
-  tagline: 'Dinosaurs are cool',
+  title: 'HackWay技术学习路线',
+  tagline: 'HackWay为程序员自学计算机专业、编程语言提供循序渐进的学习路线、资源以及交流社区',
   url: 'https://hackway.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -52,6 +52,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'keywords', content: '编程,计算机专业,程序员,编程学习路线,计算机学习路径,编程导航,自学编程'}],
       navbar: {
         title: '',
         logo: {
@@ -68,6 +69,29 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'csSidebar',
                 label: '学习路线',
+              },
+              // {
+              //   type: 'docSidebar',
+              //   sidebarId: 'csSidebar',
+              //   label: '知识点与面试',
+              // },
+              // {
+              //   type: 'docSidebar',
+              //   sidebarId: 'csSidebar',
+              //   label: '项目案例',
+              // },
+              // ... more items
+            ],
+          },
+          {
+            type: 'dropdown',
+            label: '大学数学',
+            position: 'left',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'mathSidebar',
+                label: '路线与资料',
               },
               // {
               //   type: 'docSidebar',

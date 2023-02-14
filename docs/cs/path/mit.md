@@ -124,7 +124,7 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 ### ⑤ 6.006 算法概论
 介绍计算问题的数学建模，以及用于解决这些问题的常用算法、算法范式和数据结构。强调算法和编程之间的关系，并介绍这些问题的基本性能测量和分析技术。注册可能会受到限制。
 
-**前置课程：** [6.042 计算机科学中的数学](https://hackway.org/docs/cs/freshman/math/cs6042)、[6.0001 Python计算机科学编程导论](https://hackway.org/docs/cs/freshman/first/cs60001)、[6.009 编程基础](https://hackway.org/docs/cs/sophomore/software/cs6009)
+**前置课程：** [6.042 计算机科学中的数学](https://hackway.org/docs/cs/freshman/math/cs6042)、[6.0001 Python计算机科学编程导论](https://hackway.org/docs/cs/freshman/first/cs60001)、[6.009 编程基础](https://hackway.org/docs/cs/freshman/first/cs6009)
 
 **学习地址：** [6.006 算法概论](https://hackway.org/docs/cs/freshman/datastructure/cs6006)
 
@@ -133,19 +133,19 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 
 **前置课程：** [6.0001 Python计算机科学编程导论](https://hackway.org/docs/cs/freshman/first/cs60001)
 
-**学习地址：** [6.009 编程基础](https://hackway.org/docs/cs/sophomore/software/cs6009)
+**学习地址：** [6.009 编程基础](https://hackway.org/docs/cs/freshman/first/cs6009)
 
 ### ⑦ 6.031 软件构建要素
 介绍了软件开发的基本原则和技术：如何编写没有错误、易于理解和随时可以更改的软件。主题包括规范和不变量；测试、测试用例生成和覆盖；抽象数据类型和表示独立性；面向对象编程的设计模式；并发编程，包括消息传递和共享内存并发，以及防止竞争和死锁；以及具有不可变数据和高阶函数的函数式编程。包括每周编程练习和更大的小组编程项目。
 
-**前置课程：** [6.009 编程基础](https://hackway.org/docs/cs/sophomore/software/cs6009)
+**前置课程：** [6.009 编程基础](https://hackway.org/docs/cs/freshman/first/cs6009)
 
 **学习地址：** [6.031 软件构建要素](https://hackway.org/docs/cs/sophomore/software/cs6031)
 
 ### ⑧ 6.033 计算机系统工程
 计算机软件和硬件系统工程的主题：控制复杂性的技术；使用客户端-服务器设计、操作系统的强大模块化；性能、网络；命名；安全和隐私；容错系统、并发活动的原子性和协调性以及恢复；计算机系统对社会的影响。工作系统的案例研究和当前文献中的读物提供了比较和对比。包括一个为期一学期的设计项目。学生进行广泛的书面交流练习。注册可能会受到限制。
 
-**前置课程：** [6.004	计算架构](https://hackway.org/docs/cs/sophomore/system/cs6004)、[6.009 编程基础](https://hackway.org/docs/cs/sophomore/software/cs6009)
+**前置课程：** [6.004	计算架构](https://hackway.org/docs/cs/sophomore/system/cs6004)、[6.009 编程基础](https://hackway.org/docs/cs/freshman/first/cs6009)
 
 **学习地址：** [6.033 计算机系统工程](https://hackway.org/docs/cs/sophomore/system/cs6033)
 

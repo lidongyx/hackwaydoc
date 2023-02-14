@@ -3,7 +3,7 @@ displayed_sidebar: javainterviewSidebar
 sidebar_position: 1
 ---
 
-# Java后端学习路线
+# Java面试题集
 
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
@@ -82,6 +82,9 @@ export const Ad =()=> {
 
 
 ## 关于
+
+
+https://www.interviewbit.com/java-interview-questions/#why-contiguous-memory-locations-store-actual-values-in-array-and-not-in-arraylist
 
 
 <Comment></Comment>
