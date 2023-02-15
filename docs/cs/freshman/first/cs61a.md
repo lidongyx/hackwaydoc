@@ -76,6 +76,7 @@ export const Ad =()=> {
 **重要程度：** Berkerly入门第一课    
 **课程评点：** 这门课是全美计算机五大名课之一；建议和MIT6.0001一起参考学习；
 
+## 课程说明
 前置课为CS 10，需同步学习MATH1A微积分，推荐的教材为SICP，以及线上教材Composing Programs。
 
 

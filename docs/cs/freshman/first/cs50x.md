@@ -105,7 +105,6 @@ export const Ad =()=> {
 
 **B站视频：**[哈佛大学CS50X 2022最新版本 计算机入门课](https://www.bilibili.com/video/BV1ER4y157uA)
 
-<iframe src="//player.bilibili.com/player.html?aid=339351726&bvid=BV1ER4y157uA&cid=518086632&page=1" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"  width="100%" class="course-video"> </iframe>
 
 ### ④ 参考书籍
 本课程没有配套的教材，但是官方也为学生指定了三本教材，这三本教材并不是很推荐，因为老师为了学生的成本考虑，所以推荐的教材都是免费的，所以都比较老。这里推荐大家去购买以下关于Python和C语言的教材：
@@ -119,11 +118,6 @@ export const Ad =()=> {
 - 掌握VS Code进行本地项目的开发；
 - 使用LÖVE 2D和Lua制作小型2D游戏；
 - 了解机器学习、机器学习模型在Python的实现；
-
-
-
-
-## 进阶学习
 
 
 

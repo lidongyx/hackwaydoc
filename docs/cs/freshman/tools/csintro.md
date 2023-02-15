@@ -3,7 +3,7 @@ sidebar_position: 1
 title: 计算机科学速成课
 ---
 
-# 计算机科学导论 
+# 计算机科学速成课
 
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
@@ -72,10 +72,10 @@ export const Ad =()=> {
 }
 
 >**课程名称：** Crash Course Computer Science  
-**课程官网地址：**[2022年](https://cs50.harvard.edu/x/2022/)  
+**课程官网地址：**[Crash Course Computer Science](https://thecrashcourse.com/topic/computerscience/)  
 **前置课程：** 零基础可学  
 **重要程度：** ※※※   
-**课程评点：** CS50系列课程可以说是哈佛大学一个现象级的课程，也是哈佛大学最受欢迎的课程之一。这门课主要面向高中生和计算机专业大一的学生。   
+**课程评点：**   
 
 ## 课程说明
 ### ① 课程介绍
@@ -94,7 +94,6 @@ Crash Course Computer Science
 
 **B站视频：**[计算机科学速成课：Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
 
-<iframe src="//player.bilibili.com/player.html?aid=21376839&bvid=BV1EW411u7th&cid=35533224&page=2" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"  width="100%" height="500"> </iframe>
 
 ### 课程基础大纲
 

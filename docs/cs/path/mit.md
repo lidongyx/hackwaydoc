@@ -112,7 +112,7 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 
 **前置课程：** [6.0001 Python计算机科学编程导论](https://hackway.org/docs/cs/freshman/first/cs60001)
 
-**学习地址：** [6.02 通过通信网络介绍 EECS](https://hackway.org/docs/cs/freshman/first/cs602)
+**学习地址：** 这门课年代比较久远了，推荐去学MIT其他入门课程[6.0001 Python计算机科学编程导论](https://hackway.org/docs/cs/freshman/first/cs60001)
 
 ### ④ 6.004	计算架构
 介绍了数字系统和计算机体系结构的设计。强调用高级硬件语言表达所有硬件设计并综合设计。主题包括组合和时序电路、可编程硬件的指令集抽象、单周期和流水线处理器实现、多级内存层次结构、虚拟内存、异常和 I/O 以及并行系统。

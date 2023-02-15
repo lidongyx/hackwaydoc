@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 计算机教育中缺失的一课
+# MIT 计算机教育中缺失的一课
 
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
@@ -73,12 +73,21 @@ export const Ad =()=> {
 
 
 
->**课程名称：** Structure and Interpretation of Computer Programs  
-**课程官网地址：**[1986年Lisp版本](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
+>**课程名称：** The Missing Semester of Your CS Education   
+**课程官网地址：**[英文版](https://missing.csail.mit.edu/)、[中文版](https://missing-semester-cn.github.io/)  
 **前置课程：** 无  
-**重要程度：** ※※※※※  
-**课程评点：** 
+**重要程度：** ※※※  
+**课程评点：** 强烈建议大一新生在学习计算机导论和Python的时候，掌握这门课里所涉及到的工具软件的使用，这些都是程序员必须掌握的。
 
+
+## 课程说明
+大学里的计算机课程通常专注于讲授从操作系统到机器学习这些学院派的课程或主题，而对于如何精通工具这一主题则往往会留给学生自行探索。在这个系列课程中，我们讲授命令行、强大的文本编辑器的使用、使用版本控制系统提供的多种特性等等。学生在他们受教育阶段就会和这些工具朝夕相处（在他们的职业生涯中更是这样）。
+
+
+
+## 配套资源
+### 配套视频
+**B站视频：** [计算机教育中缺失的一门课程——编程工具的使用](https://www.bilibili.com/video/BV1vb4y1a7K6)
 
 
 

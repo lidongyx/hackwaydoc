@@ -78,9 +78,7 @@ export const Ad =()=> {
 **重要程度：** ※※※※※  
 **课程评点：** 
 
-课程地址：[CS122](https://www.cs.cmu.edu/~15122/home.shtml)
-
-
+## 课程说明
 
 
 
