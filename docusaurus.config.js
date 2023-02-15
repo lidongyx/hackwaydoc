@@ -61,103 +61,67 @@ const config = {
         },
         items: [
           {
-            type: 'dropdown',
+            to: 'docs/cs/intro',
             label: '计算机专业',
             position: 'left',
-            items: [
-              {
-                type: 'docSidebar',
-                sidebarId: 'csSidebar',
-                label: '学习路线',
-              },
-              // {
-              //   type: 'docSidebar',
-              //   sidebarId: 'csSidebar',
-              //   label: '知识点与面试',
-              // },
-              // {
-              //   type: 'docSidebar',
-              //   sidebarId: 'csSidebar',
-              //   label: '项目案例',
-              // },
-              // ... more items
-            ],
           },
           {
-            type: 'dropdown',
+            to: 'docs/math/intro',
             label: '大学数学',
             position: 'left',
-            items: [
-              {
-                type: 'docSidebar',
-                sidebarId: 'mathSidebar',
-                label: '路线与资料',
-              },
-            ],
           },
-          {
-            type: 'dropdown',
-            label: '人工智能',
-            position: 'left',
-            items: [
-              {
-                type: 'docSidebar',
-                sidebarId: 'aiSidebar',
-                label: '路线与资料',
-              },
-            ],
-          },
+
           // {
           //   type: 'dropdown',
-          //   label: '前端开发',
+          //   label: '计算机专业',
           //   position: 'left',
           //   items: [
           //     {
+          //       to: 'docs/cs/intro',
+          //       label: '计算机专业',
+          //       position: 'left',
+          //     },
+          //     {
           //       type: 'docSidebar',
-          //       sidebarId: 'jsSidebar',
+          //       sidebarId: 'csSidebar',
           //       label: '学习路线',
           //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'javaSidebar',
-          //       label: '知识点与面试',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'goSidebar',
-          //       label: '项目案例',
-          //     },
+          //     // {
+          //     //   type: 'docSidebar',
+          //     //   sidebarId: 'csSidebar',
+          //     //   label: '知识点与面试',
+          //     // },
+          //     // {
+          //     //   type: 'docSidebar',
+          //     //   sidebarId: 'csSidebar',
+          //     //   label: '项目案例',
+          //     // },
           //     // ... more items
           //   ],
           // },
           // {
           //   type: 'dropdown',
-          //   label: 'Java开发',
+          //   label: '大学数学',
           //   position: 'left',
           //   items: [
           //     {
           //       type: 'docSidebar',
-          //       sidebarId: 'javaSidebar',
-          //       label: '学习路线',
+          //       sidebarId: 'mathSidebar',
+          //       label: '路线与资料',
           //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'javaSidebar',
-          //       label: '知识点与面试',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'goSidebar',
-          //       label: '项目案例',
-          //     },
-          //     // ... more items
           //   ],
           // },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
+          //   type: 'dropdown',
+          //   label: '人工智能',
+          //   position: 'left',
+          //   items: [
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'aiSidebar',
+          //       label: '路线与资料',
+          //     },
+          //   ],
           // },
         ],
       },
