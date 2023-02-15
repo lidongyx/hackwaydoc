@@ -1,8 +1,9 @@
 ---
-sidebar_position: 2
+displayed_sidebar: mathSidebar
+sidebar_position: 1
 ---
 
-# MIT 6.829 计算机网络
+# 人工智能学习路线与资料
 
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
@@ -71,14 +72,26 @@ export const Ad =()=> {
 }
 
 
->**课程名称：** Computer Networks    
-**课程官网地址：**[2006年秋](http://nms.csail.mit.edu/6.829-f06/info.html)、[2002年秋](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/)、[2008年秋](http://stellar.mit.edu/S/course/6/sp08/6.829/)    
-**前置课程：** 无  
-**重要程度：** ※※※※※  
-**课程评点：** 
 
-## 课程说明
+>数学是计算机专业的必修课
 
+:::danger 注意
+
+本学习路线与资料只列举计算机相关专业所需要掌握的数学知识，
+
+
+:::
+
+
+## Java的学习前景
+尽管现在Java的就业市场相比前几年“内卷”了很多，不过Java
+
+
+
+计算机专业、或转专业、或自学成才、或培训班、或其他专业辅修的童鞋，应该如何循序渐进地掌握系统而扎实的计算机科学知识，让自己拥有名校科班的实力，无论是从事科研抑或找工作都具有竞争力。从目前大厂招聘来看，掌握本学习路线核心课程的童鞋能够很容易拿到ssp offer。
+
+
+## 关于
 
 
 <Comment></Comment>

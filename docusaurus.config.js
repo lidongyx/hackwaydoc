@@ -93,17 +93,18 @@ const config = {
                 sidebarId: 'mathSidebar',
                 label: '路线与资料',
               },
-              // {
-              //   type: 'docSidebar',
-              //   sidebarId: 'csSidebar',
-              //   label: '知识点与面试',
-              // },
-              // {
-              //   type: 'docSidebar',
-              //   sidebarId: 'csSidebar',
-              //   label: '项目案例',
-              // },
-              // ... more items
+            ],
+          },
+          {
+            type: 'dropdown',
+            label: '人工智能',
+            position: 'left',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'aiSidebar',
+                label: '路线与资料',
+              },
             ],
           },
           // {

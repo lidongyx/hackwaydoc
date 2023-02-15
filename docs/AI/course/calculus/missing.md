@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# MIT 6.829 计算机网络
+# 计算机教育中缺失的一课
 
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
@@ -71,13 +71,14 @@ export const Ad =()=> {
 }
 
 
->**课程名称：** Computer Networks    
-**课程官网地址：**[2006年秋](http://nms.csail.mit.edu/6.829-f06/info.html)、[2002年秋](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/)、[2008年秋](http://stellar.mit.edu/S/course/6/sp08/6.829/)    
+
+
+>**课程名称：** Structure and Interpretation of Computer Programs  
+**课程官网地址：**[1986年Lisp版本](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
 **前置课程：** 无  
 **重要程度：** ※※※※※  
 **课程评点：** 
 
-## 课程说明
 
 
 

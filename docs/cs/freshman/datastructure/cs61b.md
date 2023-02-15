@@ -72,14 +72,14 @@ export const Ad =()=> {
 
 
 
->**课程名称：** Structure and Interpretation of Computer Programs  
-**课程官网地址：**[1986年Lisp版本](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
+>**课程名称：** Data Structures    
+**课程官网地址：**[2023年春](https://sp23.datastructur.es/)  
 **前置课程：** 无  
 **重要程度：** ※※※※※  
 **课程评点：** 
 
 ## 课程说明
-
+基本的动态数据结构，包括线性列表、队列、树和其他链接结构；数组字符串和哈希表。存储管理。软件工程的基本原理。抽象数据类型。排序和搜索算法。Java 编程语言简介。
 
 
 <Comment></Comment>

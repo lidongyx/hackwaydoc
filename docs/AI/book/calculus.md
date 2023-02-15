@@ -2,8 +2,7 @@
 sidebar_position: 2
 ---
 
-# MIT 6.829 计算机网络
-
+# 微积分
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
   <a href={url} target="_blank" class="book-content">
@@ -71,14 +70,19 @@ export const Ad =()=> {
 }
 
 
->**课程名称：** Computer Networks    
-**课程官网地址：**[2006年秋](http://nms.csail.mit.edu/6.829-f06/info.html)、[2002年秋](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/)、[2008年秋](http://stellar.mit.edu/S/course/6/sp08/6.829/)    
+
+
+>**课程名称：** Structure and Interpretation of Computer Programs  
+**课程官网地址：**[1986年Lisp版本](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
 **前置课程：** 无  
 **重要程度：** ※※※※※  
 **课程评点：** 
 
-## 课程说明
 
+这门课只有2个学分，主课一般都是9到12个学分，属于选修，主要是掌握Linux的一些操作，如编辑器Emacs、命令行、Git、Latex、Bash、包管理、Makefiles以及React Native等，相当于是教一些计算机的基础操作。
+
+
+课程地址：[15-131 – Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
 
 
 <Comment></Comment>
