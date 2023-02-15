@@ -70,6 +70,12 @@ const config = {
             label: '大学数学',
             position: 'left',
           },
+          {
+            to: 'docs/ai/intro',
+            label: '人工智能',
+            position: 'left',
+          },
+
 
           // {
           //   type: 'dropdown',
