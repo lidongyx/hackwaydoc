@@ -75,7 +75,7 @@ export const Ad =()=> {
 
 >**课程名称：** The Missing Semester of Your CS Education   
 **课程官网地址：**[英文版](https://missing.csail.mit.edu/)、[中文版](https://missing-semester-cn.github.io/)  
-**前置课程：** 无  
+**先修课程：** 无  
 **重要程度：** ※※※  
 **课程评点：** 强烈建议大一新生在学习计算机导论和Python的时候，掌握这门课里所涉及到的工具软件的使用，这些都是程序员必须掌握的。
 

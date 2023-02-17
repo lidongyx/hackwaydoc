@@ -75,7 +75,7 @@ export const Ad =()=> {
 
 >**课程名称：** Great Ideas in Computer Architecture (Machine Structures)  
 **课程官网地址：**[2021年夏](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
-**前置课程：**   
+**先修课程：**   
 **重要程度：** ※※※
 
 ## 课程说明

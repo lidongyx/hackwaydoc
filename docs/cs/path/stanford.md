@@ -103,7 +103,7 @@ export const Ad =()=> {
 比如和老师在暑假一起做垂直赛道的研究，比如组织有利于工程学院或促进工程协会目标的活动，或者出国去学习海外课程（大约有一半的学生会出国学习海外课程）。海外课程包括为期10周的学制季度课程、为期3到5周的短期学术课程。
 
 ### ② 6门计算机核心课程
-核心课程包含系统部分和理论部分，这些课程是计算机专业的学生需要认真学习的基础课程，也是很多专业方向的前置课。
+核心课程包含系统部分和理论部分，这些课程是计算机专业的学生需要认真学习的基础课程，也是很多专业方向的先修课。
 
 #### 1、核心系统课
 - **程序的抽象概念**（CS106B或CS106X），主要是C++基础、递归、数据抽象、基础的算法
@@ -126,7 +126,7 @@ export const Ad =()=> {
 ### ① CS 103 计算的数学基础
 计算能力的理论极限是什么？计算机能解决哪些问题？哪些不能？我们如何以数学上的确定性来推理这些问题的答案？本课程探讨这些问题的答案，并作为离散数学、可计算性理论和复杂性理论的介绍。课程完成后，学生将能够轻松编写数学证明、推理离散结构、阅读和编写一阶逻辑语句，以及使用计算设备的数学模型。在整个课程中，学生将接触到 19 世纪末和 20 世纪最激动人心的数学和哲学思想。
 
-**前置课程：** 零基础可学，无前置课程
+**先修课程：** 零基础可学，无先修课程
 
 **学习地址：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)
 
@@ -134,28 +134,28 @@ export const Ad =()=> {
 ### ② CS106a 编程方法
 计算机应用工程简介，强调现代软件工程原理：程序设计、分解、封装、抽象和测试。重点是良好的编程风格和各自语言的内置设施。使用 Python 编程语言。
 
-**前置课程：** 零基础可学，无前置课程
+**先修课程：** 零基础可学，无先修课程
 
 **学习地址：** [CS106a 编程方法](https://hackway.org/docs/cs/freshman/first/cs106a)
 
 ### ③ CS 106B/106X 编程抽象
 抽象及其与编程的关系。数据抽象和模块化的软件工程原理。面向对象编程、基本数据结构（如堆栈、队列、集合）和数据导向设计。递归和递归数据结构（链表、树、图）。时间和空间复杂度分析简介。使用涵盖其基本功能的编程语言 C++。
 
-**前置课程：** [CS106a 编程方法](https://hackway.org/docs/cs/freshman/first/cs106a)
+**先修课程：** [CS106a 编程方法](https://hackway.org/docs/cs/freshman/first/cs106a)
 
 **学习地址：** [CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)
 
 ### ④ CS 107 计算机组成与系统
 介绍计算机系统的基本概念。探索计算机系统如何执行程序和操作数据，从 C 编程语言到微处理器。涵盖的主题包括：C 编程语言、数据表示、机器级代码、计算机算术、代码编译元素、内存组织和管理，以及性能评估和优化。
 
-**前置课程：** [CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)
+**先修课程：** [CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)
 
 **学习地址：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
 
 ### ⑤ CS 108 面向对象的系统设计
 大型 OOP 库环境中的软件设计和构建。用 Java 授课。主题：OOP 设计、设计模式、测试、图形用户界面 (GUI) OOP 库、软件工程策略、团队编程方法
 
-**前置课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
 
 **学习地址：** [CS 108 面向对象的系统设计](https://hackway.org/docs/cs/sophomore/software/cs108)
 
@@ -163,28 +163,28 @@ export const Ad =()=> {
 ### ⑥ CS 109 计算机科学家的概率论
 主题包括：计数和组合、随机变量、条件概率、独立性、分布、期望、点估计和极限定理。概率在计算机科学中的应用，包括机器学习和在算法分析中使用概率。配套教材是《概率论基础教程》。
 
-**前置课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)、[CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)、[CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)
 
 **学习地址：** 暂未收录
 
 ### ⑦ CS 110 计算机系统原理
 计算机软硬件系统工程原理与实践. 主题包括：控制复杂性的技术；使用客户端-服务器设计、虚拟内存和线程的强大模块化；网络；并行活动的原子性和协调性。
 
-**前置课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
 
 **学习地址：** [CS 110 计算机系统原理](https://hackway.org/docs/cs/sophomore/system/cs110)
 
 ### ⑧ CS 140 操作系统
 通过操作系统设计和实现的镜头涵盖计算机系统中的关键概念。主题包括线程、调度、n 进程、虚拟内存、同步、多核架构、n 内存一致性、硬件原子、内存分配器、链接、I/O、n 文件系统和虚拟机。Pintos 操作系统中的四核编程项目强化了这些概念。
 
-**前置课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
 
 **学习地址：** [CS 140 操作系统](https://hackway.org/docs/cs/sophomore/operating/cs140)
 
 ### ⑨ CS 143 编译器
 编译器和解释器的设计和实现的原则和实践。主题：词法分析；解析理论；符号表；类型系统；范围; 语义分析；中间表示；运行时环境；代码生成；和基本的程序分析和优化。学生在课程编程项目中为简单的面向对象语言构建编译器。
 
-**前置课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
 
 **学习地址：** [CS 143 编译器](https://hackway.org/docs/cs/junior/compiler/cs143)
 
@@ -192,21 +192,21 @@ export const Ad =()=> {
 ### ⑩ CS 144 计算机网络
 原则与实践。计算机网络的结构和组件，重点是互联网。分组交换、分层和路由。传输和 TCP：通过不可靠的网络进行可靠传递、流量控制、拥塞控制。网络名称、地址和以太网交换。包括重要的 C/C++ 编程组件；学生构建互联网 TCP/IP 软件的一部分。
 
-**前置课程：** [CS 110 计算机系统原理](https://hackway.org/docs/cs/sophomore/system/cs110)
+**先修课程：** [CS 110 计算机系统原理](https://hackway.org/docs/cs/sophomore/system/cs110)
 
 **学习地址：** [CS 144 计算机网络](https://hackway.org/docs/cs/junior/network/cs144)
 
 ### ⑪ CS145 数据管理和数据系统
 介绍数据库和数据密集型系统的使用、设计和实现，包括数据模型；架构设计；数据存储; 查询处理、查询优化和成本估算；并发控制、事务和故障恢复；分布式和并行执行；半结构化数据库；和数据系统支持高级分析和机器学习。
 
-**前置课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
 
 **学习地址：** [CS145 数据管理和数据系统](https://hackway.org/docs/cs/junior/database/cs145)
 
 ### ⑫ CS 161 算法的设计与分析
 最差和平均情况分析。递归和渐近线。用于排序、搜索和选择的高效算法。数据结构：二叉搜索树、堆、哈希表。算法设计技术：分治法、动态规划、贪心算法、随机化。基本图问题的算法：最小成本生成树、连通分量、拓扑排序和最短路径。可能的附加主题：网络流、字符串搜索、摊销分析、稳定匹配和近似算法。
 
-**前置课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103) 和 CS 109 计算机科学家的概率论
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103) 和 CS 109 计算机科学家的概率论
 
 **学习地址：** [CS 161 算法的设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs161)
 
@@ -214,7 +214,7 @@ export const Ad =()=> {
 ### ⑬ CS 166 数据结构
 本课程深入探讨数据结构的设计、分析、实现和理论。在本季度中，我们将探索数据结构设计中的基本技术（等距、定名、随机化等），并探索对开发新数据结构有用的观点和直觉。我们将通过调查经典数据结构（如 Fibonacci 堆和后缀树）以及更现代的数据结构（如 count-min 草图和 rangenminimum 查询）来做到这一点。到我们完成时，我们将看到一些真正漂亮的有效解决问题的策略。
 
-**前置课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)、[CS 161 算法的设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs161)
+**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)、[CS 161 算法的设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs161)
 
 **学习地址：** [CS 166 数据结构](https://hackway.org/docs/cs/freshman/datastructure/cs166)
 
@@ -222,22 +222,25 @@ export const Ad =()=> {
 ### ⑭ CS 244B 分布式系统
 分布式操作系统和应用问题，强调高级协议和分布式状态共享作为关键技术。主题：分布式共享内存、面向对象的分布式系统设计、分布式目录服务、原子事务和时间同步、应用程序足够的一致性、文件访问、进程调度、进程迁移以及关于分布式、规模、健壮性的存储/通信抽象面对失败和安全。
 
-**前置课程：** [CS 144 计算机网络](https://hackway.org/docs/cs/junior/network/cs144)
+**先修课程：** [CS 144 计算机网络](https://hackway.org/docs/cs/junior/network/cs144)
 
 **学习地址：** [CS 244B 分布式系统](https://hackway.org/docs/cs/senior/distributed/cs244)
 
 ### ⑮ CS 245 数据密集型系统的原理
 最重要的计算机应用程序必须可靠地管理和操作数据集。本课程涵盖现代数据存储和处理系统的架构，包括关系数据库、集群计算框架、流系统和机器学习系统。主题包括存储管理、查询优化、事务、并发、故障恢复和并行处理，重点关注跨多种类型的数据密集型系统共享的关键设计思想。
 
-**前置课程：** [CS145 数据管理和数据系统](https://hackway.org/docs/cs/junior/database/cs145)、[CS 161 算法的设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs161)
+**先修课程：** [CS145 数据管理和数据系统](https://hackway.org/docs/cs/junior/database/cs145)、[CS 161 算法的设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs161)
 
 **学习地址：** [CS 245 数据密集型系统的原理](https://hackway.org/docs/cs/senior/distributed/cs245)
 
-:::tip 说明
 
-斯坦福大学在机器学习、深度学习、机器人、计算机图形学等课程方面非常有名，众多国内外技术大佬们也都会把这些课程作为入门或进阶的学习资料，不过由于垂直性比较高，本学习路线暂时没有收录这些课程。
+## 专业选课表
 
-:::
+- [Stanford 计算机科学与工程的学位课程要求](https://archived-bulletin.stanford.mobi/soe-ug-majors/cs/)
+- [Stanford 计算机专业课程目录](https://cs.stanford.edu/academics/courses)
+
+
+
 
 <Comment></Comment>
 
