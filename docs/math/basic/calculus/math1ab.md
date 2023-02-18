@@ -1,9 +1,8 @@
 ---
-displayed_sidebar: aiSidebar
 sidebar_position: 1
 ---
 
-# 斯坦福 CS224w 使用图形进行机器学习
+# 哈佛 MATH 1a/1b  微积分导论
 export const Book = ({url,img,title}) =>(
 <div class="bookitem">
   <a href={url} target="_blank" class="book-content">
@@ -73,19 +72,18 @@ export const Ad =()=> {
 
 
 
->**课程名称：**  Machine Learning with Graphs      
-**课程官网地址：**[伯克利 EECS189和CS289A课程官网](https://www.eecs189.org/)  
+>**课程名称：** Introduction to Calculus    
+**课程官网地址：**[MATH 1a 2021年春](https://people.math.harvard.edu/~knill/teaching/math1a2021/index.html)、[MATH 1b 2021年秋](https://people.math.harvard.edu/~knill/teaching/fall2021/index.html)、[MATH 21a 2022年夏](https://people.math.harvard.edu/~knill/teaching/summer2022/index.html)        
 **先修课程：** 无  
 **重要程度：** ※※※※※  
 **课程评点：** 
 
-
 ## 课程说明
-许多复杂的数据可以表示为对象之间的关系图。这种网络是对复杂的社会、技术和生物系统进行建模的基本工具。本课程侧重于特定于海量图形分析的计算、算法和建模挑战。通过研究底层图形结构及其特征，向学生介绍机器学习技术和数据挖掘工具，这些工具易于揭示对各种网络的洞察力。主题包括：表示学习和图形神经网络；万维网算法；对知识图进行推理；影响最大化；疾病爆发检测、社交网络分析。先决条件： CS109，任何机器学习入门课程。
+关于微积分，哈佛大学开设了MATH 1a
 
+对数学有追求的学生可以学习MATH 121代替 MATH21a 的内容
 
-## 视频资源
+[MATH 112](https://people.math.harvard.edu/~auroux/112s19/index.html)
 
-[2017年视频列表](http://snap.stanford.edu/class/cs224w-videos-2017/)
 
 <Comment></Comment>

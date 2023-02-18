@@ -165,7 +165,7 @@ export const Ad =()=> {
 ### ⑤ 15-150 函数式编程原理
 基于“功能”计算模型的编程介绍。函数模型是代数的自然概括，其中程序是根据输入和#8212 描述计算输出的公式；即作为函数。但是，函数模型不仅限于实值或复值函数，而是将代数视图扩展到非常丰富的数据类型类别，不仅包括从其他类型构建的聚合，还包括作为值的函数本身。本课程是对编程的介绍，侧重于函数和类型的核心概念。一个主要主题是逐步建立的归纳类型之间的相互作用。递归函数，通过分解计算归纳类型；并通过结构归纳证明，用于证明递归函数的正确性和时间复杂度。另一个主要主题是类型在将大型程序构建成单独的模块中的作用，以及通过引入其值可能在计算期间更改的数据类型来集成命令式编程。
 
-**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、[15-151 计算机科学的数学基础](https://hackway.org/docs/cs/freshman/math/cs15151)
+**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、[15-151 计算机科学的数学基础](https://hackway.org/docs/math/basic/discrete/cs15151)
 
 **学习地址：** [15-150 函数式编程原理](https://hackway.org/docs/cs/sophomore/functional/cs15150)
 
@@ -174,7 +174,7 @@ export const Ad =()=> {
 
 **先修课程：** 无先修课程
 
-**学习地址：** [15-151 计算机科学的数学基础](https://hackway.org/docs/cs/freshman/math/cs15151)
+**学习地址：** [15-151 计算机科学的数学基础](https://hackway.org/docs/math/basic/discrete/cs15151)
 
 ### ⑦ 15-210 并行和顺序数据结构和算法
 了解算法设计中的各种技术，包括分治法、收缩法、随机化、贪心法、蛮力法、归约法和动态规划；了解并行技术，例如扫描（前缀和） 将问题抽象为正式定义的能力；给定定义设计新算法和数据结构的能力；了解渐近分析并解决各种递归；理解纯函数式算法。
@@ -193,14 +193,14 @@ export const Ad =()=> {
 ### ⑨ 15-214 软件构建原理：对象、设计和并发
 今天的软件工程师不太可能从头开始设计数据结构和算法，而更有可能从库和框架组件构建系统。在本课程中，学生在对数据结构、算法、程序结构和计算机结构的基本构建块的理解的基础上，参与与大规模软件系统构建相关的概念。该课程涵盖四个领域的技术主题：（1）复杂系统的设计概念，（2）面向对象的编程，（3）程序的静态和动态分析，以及（4）并发和分布式软件。学生作业涉及使用复杂的软件，例如分布式大型多人游戏系统和图形用户交互框架。
 
-**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、 [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/datastructure/cs15122)、 [15-151 计算机科学的数学基础](https://hackway.org/docs/cs/freshman/math/cs15151)
+**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、 [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/datastructure/cs15122)、 [15-151 计算机科学的数学基础](https://hackway.org/docs/math/basic/discrete/cs15151)
 
 **学习地址：** [15-214 软件构建原理：对象、设计和并发](https://hackway.org/docs/cs/sophomore/software/cs15214)
 
 ### ⑩ 15-251 理论计算机科学的伟大思想
 学分本课程是关于如何使用理论思想来制定和解决计算机科学中的问题。它将数学材料与一般问题解决技术和计算机科学应用相结合。示例来自算法、复杂性理论、博弈论、概率论、图论、自动机理论、代数、密码学和组合学。作业涉及数学证明和编程。
 
-**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、 [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/datastructure/cs15122)、 [15-151 计算机科学的数学基础](https://hackway.org/docs/cs/freshman/math/cs15151)
+**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、 [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/datastructure/cs15122)、 [15-151 计算机科学的数学基础](https://hackway.org/docs/math/basic/discrete/cs15151)
 
 **学习地址：** [15-251 理论计算机科学的伟大思想](https://hackway.org/docs/cs/junior/reasoning/cs15251)
 
@@ -262,5 +262,7 @@ export const Ad =()=> {
 - [CMU 计算机本科专业学位课程要求](https://csd.cmu.edu/academics/undergraduate/requirements)
 
 - [CMU 计算机专业课程列表](https://csd.cmu.edu/course-profiles/csd-course-list)
+
+
 <Comment></Comment>
 

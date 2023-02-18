@@ -128,7 +128,7 @@ export const Ad =()=> {
 
 **先修课程：** 零基础可学，无先修课程
 
-**学习地址：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)
+**学习地址：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)
 
 
 ### ② CS106a 编程方法
@@ -163,7 +163,7 @@ export const Ad =()=> {
 ### ⑥ CS 109 计算机科学家的概率论
 主题包括：计数和组合、随机变量、条件概率、独立性、分布、期望、点估计和极限定理。概率在计算机科学中的应用，包括机器学习和在算法分析中使用概率。配套教材是《概率论基础教程》。
 
-**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)、[CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)、[CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)
 
 **学习地址：** 暂未收录
 
@@ -184,7 +184,7 @@ export const Ad =()=> {
 ### ⑨ CS 143 编译器
 编译器和解释器的设计和实现的原则和实践。主题：词法分析；解析理论；符号表；类型系统；范围; 语义分析；中间表示；运行时环境；代码生成；和基本的程序分析和优化。学生在课程编程项目中为简单的面向对象语言构建编译器。
 
-**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
 
 **学习地址：** [CS 143 编译器](https://hackway.org/docs/cs/junior/compiler/cs143)
 
@@ -199,14 +199,14 @@ export const Ad =()=> {
 ### ⑪ CS145 数据管理和数据系统
 介绍数据库和数据密集型系统的使用、设计和实现，包括数据模型；架构设计；数据存储; 查询处理、查询优化和成本估算；并发控制、事务和故障恢复；分布式和并行执行；半结构化数据库；和数据系统支持高级分析和机器学习。
 
-**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
 
 **学习地址：** [CS145 数据管理和数据系统](https://hackway.org/docs/cs/junior/database/cs145)
 
 ### ⑫ CS 161 算法的设计与分析
 最差和平均情况分析。递归和渐近线。用于排序、搜索和选择的高效算法。数据结构：二叉搜索树、堆、哈希表。算法设计技术：分治法、动态规划、贪心算法、随机化。基本图问题的算法：最小成本生成树、连通分量、拓扑排序和最短路径。可能的附加主题：网络流、字符串搜索、摊销分析、稳定匹配和近似算法。
 
-**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/cs/freshman/math/cs103) 和 CS 109 计算机科学家的概率论
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103) 和 CS 109 计算机科学家的概率论
 
 **学习地址：** [CS 161 算法的设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs161)
 

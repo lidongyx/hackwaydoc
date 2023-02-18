@@ -24,6 +24,9 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+.main-wrapper{
+  background-color: #eef6f3
+}
 
 .theme-doc-markdown ul,.theme-doc-markdownarticle ol{
   font-size: 14px;

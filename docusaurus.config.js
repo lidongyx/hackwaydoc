@@ -28,8 +28,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -52,7 +52,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      metadata: [{name: 'keywords', content: '编程,计算机专业,程序员,编程学习路线,计算机学习路径,编程导航,自学编程'}],
+      metadata: [{name: 'keywords', content: '编程,计算机专业,名校课程,CS名校,编程学习路线,计算机学习路径,自学编程'}],
       navbar: {
         title: '',
         logo: {
@@ -75,60 +75,6 @@ const config = {
             label: '人工智能',
             position: 'left',
           },
-
-
-          // {
-          //   type: 'dropdown',
-          //   label: '计算机专业',
-          //   position: 'left',
-          //   items: [
-          //     {
-          //       to: 'docs/cs/intro',
-          //       label: '计算机专业',
-          //       position: 'left',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'csSidebar',
-          //       label: '学习路线',
-          //     },
-          //     // {
-          //     //   type: 'docSidebar',
-          //     //   sidebarId: 'csSidebar',
-          //     //   label: '知识点与面试',
-          //     // },
-          //     // {
-          //     //   type: 'docSidebar',
-          //     //   sidebarId: 'csSidebar',
-          //     //   label: '项目案例',
-          //     // },
-          //     // ... more items
-          //   ],
-          // },
-          // {
-          //   type: 'dropdown',
-          //   label: '大学数学',
-          //   position: 'left',
-          //   items: [
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'mathSidebar',
-          //       label: '路线与资料',
-          //     },
-          //   ],
-          // },
-          // {
-          //   type: 'dropdown',
-          //   label: '人工智能',
-          //   position: 'left',
-          //   items: [
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'aiSidebar',
-          //       label: '路线与资料',
-          //     },
-          //   ],
-          // },
         ],
       },
       footer: {
@@ -174,11 +120,19 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} HackWay`,
+        copyright: `Copyright © ${new Date().getFullYear()} HackWay技术学习路线`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      announcementBar: {
+        id: 'support_us',
+        content:
+          '🐝 技术交流群，点击 <a target="_blank" rel="noopener noreferrer" href="https://hackway.org/qrcode">加入交流群</a> 获取加群方式',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: false,
       },
       // googleAdsense: {
       //   dataAdClient: 'ca-pub-3564174644141518',

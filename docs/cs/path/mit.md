@@ -105,7 +105,7 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 用于科学和工程的基本离散数学，重点是在计算机科学中有用的数学工具和证明技术。主题包括逻辑符号、集合、关系、基本图论、状态机和不变量、矛盾归纳和证明、递归、渐近符号、算法的基本分析、基本数论和密码学、排列和组合、计数工具和离散概率.
 
 **先修课程：** [MIT 18.01 单变量微积分](https://hackway.org/docs/math/course/calculus/math1801)    
-**学习地址：** [6.042 计算机科学中的数学](https://hackway.org/docs/cs/freshman/math/cs6042)
+**学习地址：** [6.042 计算机科学中的数学](https://hackway.org/docs/math/basic/discrete/cs6042)
 
 ### ③ 6.02 通过通信网络介绍 EECS
 研究关键概念、系统和算法，以在从蜂窝电话网络和互联网到深空的环境中可靠地传输数据。每周的实验室实验深入探索这些领域。三个模块中呈现的主题，位、信号和数据包，跨越通信系统的多个层。位模块包括信息、熵、数据压缩算法，以及块和卷积码的纠错。信号模块包括建模物理信道和噪声、信号设计、滤波和检测、调制和频分复用。数据包模块包括交换和排队原理、媒体访问控制、路由协议和数据传输协议。
@@ -124,7 +124,7 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 ### ⑤ 6.006 算法概论
 介绍计算问题的数学建模，以及用于解决这些问题的常用算法、算法范式和数据结构。强调算法和编程之间的关系，并介绍这些问题的基本性能测量和分析技术。注册可能会受到限制。
 
-**先修课程：** [6.042 计算机科学中的数学](https://hackway.org/docs/cs/freshman/math/cs6042)、[6.0001 Python计算机科学编程导论](https://hackway.org/docs/cs/freshman/first/cs60001)、[6.009 编程基础](https://hackway.org/docs/cs/freshman/first/cs6009)
+**先修课程：** [6.042 计算机科学中的数学](https://hackway.org/docs/math/basic/discrete/cs6042)、[6.0001 Python计算机科学编程导论](https://hackway.org/docs/cs/freshman/first/cs60001)、[6.009 编程基础](https://hackway.org/docs/cs/freshman/first/cs6009)
 
 **学习地址：** [6.006 算法概论](https://hackway.org/docs/cs/freshman/datastructure/cs6006)
 
