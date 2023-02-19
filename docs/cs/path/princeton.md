@@ -138,23 +138,37 @@ export const Ad =()=> {
 
 **学习地址：** [COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
 
-### ⑤ COS240 计算推理
+### ④ COS240 计算推理
 介绍与计算机科学相关的数学主题。组合数学、概率和图论将在计算机科学应用的背景下进行介绍。本课程将介绍一种计算机科学方法来思考和建模。将向学生介绍从高效计算的世界观中产生的基本概念，例如 NP 完整性和密码学。
 
 **先修课程：** [COS126 计算机科学：跨学科方法](https://hackway.org/docs/cs/freshman/first/cos126)、[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226) 以及 线性代数
 
 **学习地址：** [COS240 计算推理](https://hackway.org/docs/cs/junior/reasoning/cos340)
 
+### ⑤ COS316 计算机系统设计原理
+本课程教授学生计算机系统的设计、实现和评估，包括操作系统、网络和分布式系统。该课程将教授学生评估性能并研究现有系统的设计选择。学生还将学习支持模块化、性能和安全性设计目标的通用系统概念。学生将应用在讲座和阅读中学到的材料来设计、构建和评估新的系统组件。
 
-### ④ COS318 操作系统
+**先修课程：** [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)、[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
+
+**学习地址：** [COS316 计算机系统设计原理](https://hackway.org/docs/cs/sophomore/system/cos316)
+
+
+### ⑥ COS318 操作系统
 操作系统的设计和分析的研究。主题包括：进程、互斥、同步、信号量、监视器、死锁预防和检测、内存管理、虚拟内存、处理器调度、磁盘管理、文件系统、安全、保护、分布式系统。
 
 **先修课程：** [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)、[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
 
 **学习地址：** [COS318 操作系统](https://hackway.org/docs/cs/sophomore/operating/cos318)
 
+### ⑦ COS320 编译技术
+了解编译器的设计和构造。概念包括语法分析、语义、代码生成、优化和运行时系统。将研究命令式语言（如 C）、函数式语言（如 ML）和面向对象语言（如 Java）的编译。学生将为一种小语言实现一个完整的编译器。
 
-### ⑥ COS326 函数式编程
+**先修课程：** [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)、[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
+
+**学习地址：** [COS318 操作系统](https://hackway.org/docs/cs/junior/compiler/cs320)
+
+
+### ⑧ COS326 函数式编程
 类型化函数式编程原理的介绍。对结构化数据类型的递归函数进行编程，并通过归纳这些函数的正确性进行非正式推理。函数式算法和数据结构。模块化编程、类型抽象、表示不变量和表示独立性的原则。并行函数式编程、算法和应用。
 
 **先修课程：** [COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
@@ -162,7 +176,15 @@ export const Ad =()=> {
 **学习地址：** [COS326 函数式编程](https://hackway.org/docs/cs/sophomore/programming/cos326)
 
 
-### ⑦ COS375 计算机体系结构和组织
+### ⑨ COS333 高级编程技术
+这是一门关于编程实践的课程。编程不仅仅是写代码。程序员还必须权衡利弊，在备选设计方案中进行选择，调试和测试，提高性能，并维护自己和他人编写的软件。同时，他们必须在满足规范的同时关注兼容性、稳健性和可靠性。学生将有机会通过编写自己的代码和参加小组项目来培养这些技能。
+
+**先修课程：**  [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)、[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
+
+**学习地址：** [COS333 高级编程技术](https://hackway.org/docs/cs/sophomore/software/cos333)
+
+
+### ⑩ COS375 计算机体系结构和组织
 计算机体系结构和组织简介。指令集设计；基本的处理器实现技术；绩效管理；缓存和虚拟内存；流水线处理器设计；成本、性能和复杂性之间的设计权衡。
 
 **先修课程：**  [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)
@@ -170,22 +192,37 @@ export const Ad =()=> {
 **学习地址：** [COS375 计算机体系结构和组织](https://hackway.org/docs/cs/senior/architecture/cos375)
 
 
-### ⑧ COS423 算法导论
+### ⑪ COS418 分布式系统
+本课程涵盖分布式系统的设计和实现。学生将了解现代、可靠和高性能分布式系统设计背后的原则和技术。主题包括服务器设计、网络编程、命名、并发和锁定、一致性模型和技术、安全和容错。一些最大的互联网站点（例如，谷歌、Facebook、亚马逊）采用的现代技术和系统也将包括在内。
+
+**先修课程：** [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)、[COS318 操作系统](https://hackway.org/docs/cs/sophomore/operating/cos318)、[COS333 高级编程技术](https://hackway.org/docs/cs/sophomore/software/cos333)  
+
+**学习地址：** [COS418 分布式系统](https://hackway.org/docs/cs/senior/distributed/cos418)
+
+
+### ⑫ COS423 算法导论
 设计和分析高效的数据结构和算法。构建和分析算法的一般技术。NP完全性简介。
 
 **先修课程：** [COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)、 [COS340 计算推理](https://hackway.org/docs/cs/junior/reasoning/cos340)
 
 **学习地址：** [COS423 算法导论](https://hackway.org/docs/cs/sophomore/algorithm/cos423)
 
-### ⑨ COS425 数据库和信息管理系统
+### ⑬ COS425 数据库和信息管理系统
 用于访问和管理半结构化信息（例如，Web 信息库）的数据库系统和系统的理论和实践方面。主题包括：关系和 XML 模型、存储和索引结构、查询表达式和评估、并发和事务管理、搜索有效性。
 
 **先修课程：** [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)、[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
 
 **学习地址：** [COS425 数据库和信息管理系统](https://hackway.org/docs/cs/junior/database/cos425)
 
+### ⑭ COS432 信息安全
+计算、通信和电子商务中的安全问题。目标和弱点；法律和道德问题；基本密码学；私人和经过身份验证的通信；电子商务; 软件安全；病毒和其他恶意代码；操作系统保护；可信系统设计；网络安全; 防火墙；政策、行政和程序；审计；人身安全；灾难恢复; 可靠性; 内容保护；隐私。
 
-### ⑩ COS461 - 计算机网络
+**先修课程：** [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)、[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
+
+**学习地址：** [COS432 信息安全](https://hackway.org/docs/cs/junior/security/cos432)
+
+
+### ⑮ COS461 - 计算机网络
 本课程研究计算机网络以及在其上运行的应用程序和服务。该课程涵盖网络概念，包括：分组交换；互联网路由和业务关系；IPv4 和 IPv6 寻址；域名系统（DNS）、路由器、交换机和中间盒设计；网络安全; 内容分发网络；无线网络; 和网络应用程序，例如流媒体视频。该课程还将包括几个编程任务，从客户端-服务器编程到网络测量、分析和推理
 
 **先修课程：** [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)
@@ -193,19 +230,29 @@ export const Ad =()=> {
 **学习地址：** [COS461 - 计算机网络](https://hackway.org/docs/cs/junior/network/cos461)
 
 
-## 推荐选修课程
+## 推荐选修
+### ① COS426 计算机图形学
+计算机图形学导论。主题包括图像合成、3D 建模、图像处理和动画。鼓励亲身体验。
 
-### COS316 
+**先修课程：** [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)、[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
 
-### COS320 
+**学习地址：** [COS426 计算机图形学](https://hackway.org/docs/cs/elective/graphics/cos426)
 
-### COS333
 
-### COS418
+### ② COS433 密码学
+计算机图形学导论。主题包括图像合成、3D 建模、图像处理和动画。鼓励亲身体验。
 
-### COS426 计算机图形学
+**先修课程：** [COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)
 
-### COS432
+**学习地址：** [COS433 密码学](https://hackway.org/docs/cs/elective/cryptography/cos433)
+
+### ③ COS436 人机交互
+创造适合人们日常生活的技术不仅仅涉及拥有技术上复杂的算法、系统和基础设施。它涉及了解人们如何思考和行为以及如何使用这些信息。设计面向用户的界面，以增强和增强人类的能力。您将了解人机交互领域以及指导对人进行研究的工具、技术和原则。设计和实施面向用户的系统，为用户带来欢乐而不是挫败感，并在涉及创建交互系统的为期一学期的小组项目中将这些技能付诸实践。
+
+**先修课程：** [COS217 编程系统导论](https://hackway.org/docs/cs/sophomore/programming/cos217)    
+
+**学习地址：** [COS436 人机交互](https://hackway.org/docs/cs/elective/hci/cos436)
+
 
 ## 专业选课表 
 

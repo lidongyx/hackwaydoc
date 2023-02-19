@@ -201,8 +201,7 @@ export const Ad =()=> {
 **学习地址：** [CS172 可计算性和复杂性](https://hackway.org/docs/cs/junior/reasoning/cs172)
 
 
-
-### ⑭ CS186 数据库系统简介
+### ⑬ CS186 数据库系统简介
 方便数据访问的访问方法和文件系统。分层、网络、关系和面向对象的数据模型。模型的查询语言。在编程语言中嵌入查询语言。数据库服务，包括保护、完整性控制和数据的替代视图。高级接口，包括应用程序生成器、浏览器和报告编写器。事务处理简介。数据库系统实施将作为学期项目完成。
 
 **先修课程：** [CS61B 数据结构](https://hackway.org/docs/cs/freshman/datastructure/cs61b)、[CS61C 计算机组成原理](https://hackway.org/docs/cs/sophomore/system/cs61c)
