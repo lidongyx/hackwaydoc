@@ -178,7 +178,9 @@ blockquote{
   height: 2.5rem !important;
 }
 
-
+article{
+  text-align: left !important;
+}
 @media screen and (max-width: 996px) {
   .course-video{
     height: 300px;
