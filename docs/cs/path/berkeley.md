@@ -4,71 +4,7 @@ sidebar_position: 5
 
 # Berkeley 电子工程与计算机科学
 
-export const Book = ({url,img,title}) =>(
-<div class="bookitem">
-  <a href={url} target="_blank" class="book-content">
-    <div class="book-img">
-      <img src={img} />
-    </div>
-    <div class="book-detail">
-      <div class="book-title">{title}</div>
-      <div class="boook-desc">
-        <img width="25" height="25" src="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/jd.svg" />
-        <div class="book-jd">去京东购买支持正版</div>
-      </div>
-    </div>
-  </a>
-  </div> 
-);
-
-export const H = ({children, color}) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '2px',
-      color: '#fff',
-      padding: '0.2rem',
-    }}>
-    {children}
-  </span>
-);
-
-import Giscus from '@giscus/react';
-export const Comment =()=> {
-  return (
-   <div className="comments-container">
-      <Giscus
-        src="https://giscus.app/client.js"
-        id="comments"
-        repo="lidongyx/hackwaydoc"
-        repoId="R_kgDOHUMOyA"
-        category="Announcements"
-        categoryId="DIC_kwDOHUMOyM4CPCtD"
-        mapping="title"
-        reactionsEnabled="1"
-        emitMetadata="0"
-        inputPosition="top"
-        theme="light"
-        lang="zh-CN"
-        crossorigin="anonymous"
-      />
-    </div>
-  );
-}
-
-import AdSense from 'react-adsense';
-export const Ad =()=> {
-  return (
-    <div className="ad-container">
-      <AdSense.Google
-        client='ca-pub-3564174644141518'
-        slot='1473297334'
-        style={{ display: 'block' }}
-        format='auto'
-        responsive='true'/>
-    </div>
-  )
-}
+import {H,Book,Ad} from '@site/src/components/common/base';
 
 
 >作为四大CS名校之一，伯克利在计算机领域的研究对计算机科学的实际应用产生过重大影响，比如和乔布斯创建苹果的天才程序员Steve Wozniak，伯克利UNIX、INGRES数据库系统、精简指令集RISC、计算复杂度理论等等。而且伯克利CS课程的资料非常新而且全，非常推荐大家来学习。

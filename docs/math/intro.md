@@ -5,71 +5,7 @@ sidebar_position: 1
 
 # 大学数学路线与资料
 
-export const Book = ({url,img,title}) =>(
-<div class="bookitem">
-  <a href={url} target="_blank" class="book-content">
-    <div class="book-img">
-      <img src={img} />
-    </div>
-    <div class="book-detail">
-      <div class="book-title">{title}</div>
-      <div class="boook-desc">
-        <img width="25" height="25" src="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/jd.svg" />
-        <div class="book-jd">去京东购买支持正版</div>
-      </div>
-    </div>
-  </a>
-  </div> 
-);
-
-export const H = ({children, color}) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '2px',
-      color: '#fff',
-      padding: '0.2rem',
-    }}>
-    {children}
-  </span>
-);
-
-import Giscus from '@giscus/react';
-export const Comment =()=> {
-  return (
-   <div className="comments-container">
-      <Giscus
-        src="https://giscus.app/client.js"
-        id="comments"
-        repo="lidongyx/hackwaydoc"
-        repoId="R_kgDOHUMOyA"
-        category="Announcements"
-        categoryId="DIC_kwDOHUMOyM4CPCtD"
-        mapping="title"
-        reactionsEnabled="1"
-        emitMetadata="0"
-        inputPosition="top"
-        theme="light"
-        lang="zh-CN"
-        crossorigin="anonymous"
-      />
-    </div>
-  );
-}
-
-import AdSense from 'react-adsense';
-export const Ad =()=> {
-  return (
-    <div className="ad-container">
-      <AdSense.Google
-        client='ca-pub-3564174644141518'
-        slot='1473297334'
-        style={{ display: 'block' }}
-        format='auto'
-        responsive='true'/>
-    </div>
-  )
-}
+import {H,Book,Ad} from '@site/src/components/common/base';
 
 >六大计算机名校都会要求计算机专业的学生必修一定学分的数学课，尤其是离散数学、微积分、线性代数、概率统计等四个分支的课程，对于普通本科毕业生而言，通常计算机专业对数学的要求也仅限于此，而对于人工智能、机器人等方向的学生来说，数学的要求往往会更高。
 

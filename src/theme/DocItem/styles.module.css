@@ -1,0 +1,26 @@
+.docItemContainer header + *,
+.docItemContainer article > *:first-child {
+  margin-top: 0;
+}
+
+.comment{
+  margin-top: 40px;
+  overflow: hidden;
+}
+
+@media (min-width: 997px) {
+  .docItemCol {
+    max-width: 75% !important;
+  }
+
+  /* Prevent hydration FOUC, as the mobile TOC needs to be server-rendered */
+  .tocMobile {
+    display: none;
+  }
+}
+
+@media print {
+  .tocMobile {
+    display: none;
+  }
+}
