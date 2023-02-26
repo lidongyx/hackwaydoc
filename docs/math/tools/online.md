@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # 线上软件
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

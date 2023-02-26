@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 斯坦福 Math 20系列  微积分
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

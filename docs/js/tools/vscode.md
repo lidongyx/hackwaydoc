@@ -4,7 +4,7 @@ sidebar_position: 31
 
 
 # 编辑器与代码规范
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

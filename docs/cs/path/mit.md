@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # MIT 计算机科学与工程
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 >麻省理工MIT既是世界顶级名校，在计算机方面也是四大CS名校之一。它的计算机专业隶属于电子工程与计算机学院Electrical Engineering and Computer Science。由于MIT在开放课程上一直做得比较优秀，Syllabus课程表、Readings教材与参考资料、Slides课件、Code代码、video课程视频以及Lab实验课等等都十分齐全，因此十分推荐大家学习MIT CS的课程。
 

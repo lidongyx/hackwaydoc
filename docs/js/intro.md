@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # 前端开发学习路线
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 >对计算机科学有追求的同学（读研、想进大厂或工作之余想提升自己），非常推荐你按照本学习路线花两三年的时间去深入学习，这对你今后的发展大有裨益；不过，如果你急于找工作（只有一年以内的时间），这种<H color="green">“科班式”</H>的学习方式并不适合你，建议你按照<H color="green">“培训班式”</H>的方式围绕企业招聘岗位去选择前端JavaScript、Java后端、Go等方向。
 

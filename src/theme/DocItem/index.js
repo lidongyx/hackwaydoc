@@ -100,7 +100,7 @@ function DocItemContent(props) {
 
           <DocPaginator previous={metadata.previous} next={metadata.next} />
           <div className='comment' style={{
-            marginTop:'40px'
+            marginTop:'60px'
           }}>
             <Comment></Comment>
             <Adb></Adb>

@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Princeton 计算机科学专业
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 >普林斯顿大学以优质而严苛的本科生教育闻名，计算机科学和人工智能之父图灵、现代计算机之父冯诺依曼都曾在普林斯顿大学求学和工作过。普林斯顿计算机专业对数学有着比较严格的要求。
 

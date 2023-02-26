@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 普林斯顿 Math202 线性代数的应用
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

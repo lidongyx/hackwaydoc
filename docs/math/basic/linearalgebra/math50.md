@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 斯坦福 Math50系列 线性代数
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

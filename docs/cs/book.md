@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # 教科书推荐
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 :::tip 说明

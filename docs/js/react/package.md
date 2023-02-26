@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # NPM与模块化
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

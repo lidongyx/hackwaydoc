@@ -3,7 +3,7 @@ sidebar_position: 31
 ---
 
 # Linux与命令行
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

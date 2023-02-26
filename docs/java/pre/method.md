@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # 学习方法
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

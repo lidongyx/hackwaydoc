@@ -4,7 +4,7 @@ sidebar_position: 99
 
 # 项目实战：网页数据处理
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 计算机教育中缺失的一课
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 哈佛 MATH21b 线性代数
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

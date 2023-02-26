@@ -3,7 +3,7 @@ sidebar_position: 51
 ---
 
 # 浏览器API
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 哈佛 MATH 1a/1b  微积分导论
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

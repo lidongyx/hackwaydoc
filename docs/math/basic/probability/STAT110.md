@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # 哈佛 STAT110 概率论
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

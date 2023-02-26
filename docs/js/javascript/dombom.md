@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 
 # BOM与DOM
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

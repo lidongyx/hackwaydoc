@@ -3,7 +3,7 @@ sidebar_position: 21
 ---
 
 # UI框架
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

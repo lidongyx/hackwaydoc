@@ -4,7 +4,7 @@ sidebar_position: 12
 
 # 数据库基础入门
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

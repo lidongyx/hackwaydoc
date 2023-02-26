@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Nodejs基础
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

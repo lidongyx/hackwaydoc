@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # API的构建
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

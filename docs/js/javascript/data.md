@@ -4,7 +4,7 @@ sidebar_position: 41
 
 # 数据请求与存储
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

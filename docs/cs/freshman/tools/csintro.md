@@ -5,7 +5,7 @@ title: 计算机科学速成课
 
 # 计算机科学速成课
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 >**课程名称：** Crash Course Computer Science  
 **课程官网地址：**[Crash Course Computer Science](https://thecrashcourse.com/topic/computerscience/)  

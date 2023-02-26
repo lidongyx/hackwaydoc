@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 知识点图谱
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

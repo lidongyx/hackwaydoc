@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # HTML与CSS基础
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

@@ -4,8 +4,6 @@ sidebar_position: 2
 
 # 哈佛 CS50X This is CS50x  
 
-import {H,Book,Ad} from '@site/src/components/common/base';
-
 >**课程名称：** This is CS50x  
 **课程官网地址：**[2022年](https://cs50.harvard.edu/x/2022/)  
 **先修课程：** 零基础可学  

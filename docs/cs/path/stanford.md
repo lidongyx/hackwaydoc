@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Stanford 计算机科学专业
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 >说到硅谷则必提及斯坦福，斯坦福大学为硅谷的形成与发展奠定了坚实的基础，培养了众多高科技公司、创始人（如惠普、雅虎、谷歌、WhatsApp、Netflix等）与优秀工程师，同时也是图灵奖得主最多的高校。斯坦福大学的课程不仅紧随一线企业的发展需求，还起到引领作用，国内高校的课程则往往落后企业发展十数年之久。
 

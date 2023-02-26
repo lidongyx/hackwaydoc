@@ -5,7 +5,7 @@ title: 计算机科学速成课
 
 # 计算机科学导论 
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 >**课程名称：** Crash Course Computer Science  
 **课程官网地址：**[2022年](https://cs50.harvard.edu/x/2022/)  

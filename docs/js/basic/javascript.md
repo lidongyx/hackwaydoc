@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 
 # JavaScript入门
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

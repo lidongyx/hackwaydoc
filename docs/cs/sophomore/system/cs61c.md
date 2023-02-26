@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 伯克利 CS61C 计算机组成原理
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 

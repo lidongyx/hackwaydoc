@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Harvard 计算机科学专业
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 >哈佛大学虽然不在四大CS名校之列，不过由于师资力量强大，因此有不少神课，比如CS50系列课程，风靡全校乃至全美，而且有比尔盖茨、扎克伯格等一众知名校友。就图灵奖获得者所在的大学排名，哈佛大学在斯坦福、MIT、伯克利、普林斯顿之后，在CMU之前，位列第5。除此以外，哈佛大学的学生可以交叉学习MIT的课程。

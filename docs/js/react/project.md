@@ -4,7 +4,7 @@ sidebar_position: 99
 
 # 项目实战：基础全栈项目
 
-import {H,Book,Ad} from '@site/src/components/common/base';
+
 
 
 
