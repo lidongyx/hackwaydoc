@@ -94,41 +94,37 @@ C程序设计语言的作者是Brian W. Kernighan/ Dennis M. Ritchie，因此这
 #### 现代操作系统
 国内很多人都更推荐现代操作系统，国外不少人推荐操作系统导论
 
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="计算机组成与设计：硬件/软件接口"></Book>
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s29633301.jpg" url="https://item.jd.com/10026870611405.html" title="现代操作系统 原书第4版 "></Book>
 
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="计算机组成与设计：硬件/软件接口"></Book>
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s32332106.jpg" url="https://item.jd.com/12535621.html" title="操作系统导论"></Book>
 
 
 ## 离散数学
 #### 离散数学以及应用
 一般建议看离散数学，但是国外不少人推荐具体数学和计算机科学中的数学。只是粗略翻了一下，可能我有黑皮书以及机械工业或华章情节，更偏向于离散数学及其应用。这三本书我都买了，会继续阅读，之后会谈谈心得。
 
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="离散数学以及应用"></Book>
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33532039.jpg" url="https://item.jd.com/12770158.html" title="离散数学以及应用"></Book>
 
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="具体数学：计算机科学基础"></Book>
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s25925470.jpg" url="https://item.jd.com/12832375.html" title="具体数学：计算机科学基础"></Book>
 
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="计算机科学中的数学"></Book>
-
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33964385.jpg" url="https://item.jd.com/12584970.html" title="计算机科学中的数学"></Book>
 
 
 ## 分布式系统
 #### 数据密集型应用系统设计
 国内外非常推荐设计数据密集型应用这本书，我看了一下黑皮书的分布式系统也很不错，也有不少人推荐，当然这两本书我都买了。
 
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="数据密集型应用系统设计"></Book>
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s34186559.jpg" url="https://item.jd.com/12437624.html" title="数据密集型应用系统设计"></Book>
 
-
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="分布式系统：概念与设计"></Book>
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s25802282.jpg" url="https://item.jd.com/11194499.html" title="分布式系统：概念与设计"></Book>
 
 ## 数据库
 #### 数据库系统
-比较推荐机械工业出版社出版的数据库系统。国外不少人推荐的是数据库”红书“，这本书的英文版是红色的，但是中文版不是，叫数据管理系统原理与设计
+比较推荐机械工业出版社出版的数据库系统概念和数据库系统
 
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="数据库系统"></Book>
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33936669.jpg" url="https://item.jd.com/13318646.html" title="数据库系统概念"></Book>
 
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="数据库系统概念"></Book>
-
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="数据库系统：设计、实现与管理"></Book>
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s29368840.jpg" url="https://item.jd.com/11928293.html" title="数据库系统：设计、实现与管理"></Book>
 
 
 
@@ -136,7 +132,7 @@ C程序设计语言的作者是Brian W. Kernighan/ Dennis M. Ritchie，因此这
 #### 编译原理
 编译原理属于编译领域”龙虎鲸“里面的龙书，其中编译原理的两位作者获得了2020年的图灵奖。
 
-<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33707062.jpg" url="https://item.jd.com/12887758.html" title="编译原理"></Book>
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s3392161.jpg" url="https://item.jd.com/10058776.html" title="编译原理 第2版"></Book>
 
 
 <Comment></Comment>
