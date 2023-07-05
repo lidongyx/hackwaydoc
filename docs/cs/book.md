@@ -135,4 +135,3 @@ C程序设计语言的作者是Brian W. Kernighan/ Dennis M. Ritchie，因此这
 <Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s3392161.jpg" url="https://item.jd.com/10058776.html" title="编译原理 第2版"></Book>
 
 
-<Comment></Comment>

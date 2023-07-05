@@ -20,5 +20,5 @@ sidebar_position: 1
 ## 配套视频
 **Youtube视频（需梯子）：**[CS 61B 2022年春](https://www.youtube.com/watch?v=gG4--V_PpEk&list=PLjuu7kFWxFtZBm-5GifiVpqdAxeW7Hsax)
 
-<Comment></Comment>
+
 

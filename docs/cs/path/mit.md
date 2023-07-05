@@ -122,6 +122,6 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 
 - [MIT 计算机专业课程目录](http://catalog.mit.edu/subjects/6/)
 
-<Comment></Comment>
+
 
 
