@@ -116,6 +116,15 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 
 **学习地址：** [6.830 数据库系统](https://hackway.org/docs/cs/junior/database/cs6830)
 
+### ⑤ 6.854 高级算法
+第一年研究生课程是算法。强调基本算法和算法设计、分析和实现的高级方法。调查各种计算模型及其算法。数据结构、网络流、线性规划、计算几何、近似算法、在线算法、并行算法、外部存储器、流算法。
+
+**先修课程：** 此为研究生课程6.1220[J] and (6.1200[J], 6.3700, or 18.600)
+**学习地址：** [6.854 高级算法](https://hackway.org/docs/cs/senior/algorithm/cs6854)
+
+
+
+
 ## 专业选课表
 
 - [计算机科学与工程（课程 6-3）学位课程要求](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)

@@ -1,13 +1,10 @@
 ---
 sidebar_position: 1
+id: Berkeley_CS61B
+description: 伯克利数据结构 Berkeley CS61B Data Structures 
 ---
 
 # 伯克利 CS61B 数据结构
-
-
-
-
-
 >**课程名称：** Data Structures    
 **课程官网地址：**[2023年春](https://sp23.datastructur.es/)  
 **先修课程：** 无  
