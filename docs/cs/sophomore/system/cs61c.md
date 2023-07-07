@@ -1,13 +1,9 @@
 ---
 sidebar_position: 6
+id: Berkeley_CS161 
 ---
 
 # 伯克利 CS61C 计算机组成原理
-
-
-
-
-
 
 >**课程名称：** Great Ideas in Computer Architecture (Machine Structures)  
 **课程官网地址：**[2021年夏](https://inst.eecs.berkeley.edu/~cs61c/su21/)、[2022年春](https://cs61c.org/sp22/)  
