@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# 哈佛 CS50X This is CS50x  
+# 📺 哈佛 CS50X This is CS50x ⭐️
 
 >**课程名称：** This is CS50x  
 **课程官网地址：**[2022年](https://cs50.harvard.edu/x/2022/)  
