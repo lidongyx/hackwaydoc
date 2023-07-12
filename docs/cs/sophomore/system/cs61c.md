@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-id: Berkeley_CS161 
 ---
 
 # 📺  伯克利 CS61C 计算机组成原理 ⭐️

@@ -1,17 +1,14 @@
 ---
 sidebar_position: 1
-title: 计算机科学速成课
 ---
 
-# 计算机科学速成课
-
-
+# 📺 计算机科学速成课 ⭐️
 
 >**课程名称：** Crash Course Computer Science  
 **课程官网地址：**[Crash Course Computer Science](https://thecrashcourse.com/topic/computerscience/)  
 **先修课程：** 零基础可学  
 **重要程度：** ※※※   
-**课程评点：**   
+**课程评点：** 本课非常适合高考刚毕业的准大学生、大一新生、计算机自学爱好者等<H color="green">快速了解</H>计算机科学到底是什么，有哪些方向等，可以作为计算机专业入门的第一课      
 
 ## 课程说明
 ### ① 课程介绍
