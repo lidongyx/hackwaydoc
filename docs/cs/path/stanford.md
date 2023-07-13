@@ -152,7 +152,7 @@ sidebar_position: 6
 
 **先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)、[CS 161 算法的设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs161)
 
-**学习地址：** [CS 166 数据结构](https://hackway.org/docs/cs/freshman/datastructure/cs166)
+**学习地址：** [CS 166 数据结构](https://hackway.org/docs/cs/sophomore/algorithm/cs166)
 
 
 ### ⑭ CS 244B 分布式系统

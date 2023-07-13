@@ -7,7 +7,7 @@ sidebar_position: 2
 >计算机相关的书籍很多，网上免费的电子资源也是十分丰富，但是学习务必求精。广泛翻阅了大量的计算机书籍推荐的文章，包括国内以及国外的推荐，考虑到通用性，对于计算机专业的学生来说，只推荐最为经典必买的书，这些书大多都是国内外诸多顶级名校的本科生教材，而且一版再版，不少书籍的作者还是计算机最高奖项图灵奖的获得者。
 
 ## 编程语言
-#### C程序设计语言
+### C程序设计语言
 C程序设计语言的作者是Brian W. Kernighan/ Dennis M. Ritchie，因此这本书也被称为K&R，号称”C语言的圣经“，其中Dennis M. Ritchie丹尼斯·里奇是C语言之父，Unix之父，图灵奖、计算机先驱奖获得者，是可以排进程序员前十的大牛。
 
 <Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s1106934.jpg" url="https://item.jd.com/12746692.html" title="C程序设计语言（第2版新版典藏版）"></Book>
@@ -18,6 +18,11 @@ C程序设计语言的作者是Brian W. Kernighan/ Dennis M. Ritchie，因此这
 如果你觉得这本书写的让你看不懂，你可以去看一下C Primer Plus来作为过渡，值得一提的是，时至今日依然有不少计算机专业使用的是谭浩强的书，这里非常不推荐。在学习C语言时，建议你能够先安装一个Linux操作系统。
 
 :::
+
+### Java编程
+Java是国内找工作最为推荐的编程语言之一，6大CS名校也有不少课程需要使用Java编程语言，这些学校推荐的Java教材也是非常知名的《Head First Java》这本可以说是Java新手入门最为流行的一本书了。目前这书已经出到第三版了，推荐购买新版的。
+
+<Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s34499368.jpg" url="https://item.jd.com/12006637.html" title="Head First Java 实战（第三版）"></Book>
 
 ## 计算机系统
 #### 深入理解计算机系统
