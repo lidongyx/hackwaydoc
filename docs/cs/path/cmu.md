@@ -89,7 +89,7 @@ sidebar_position: 4
 
 **先修课程：** [15-112 编程和计算机科学基础](https://hackway.org/docs/cs/freshman/first/cs15112)
 
-**学习地址：** [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/datastructure/cs15122)
+**学习地址：** [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/cpp/cs15122)
 
 ### ④ 15-131 计算机科学家的伟大实用思想
 本课程只对 CS 大一新生开放。在卡内基梅隆大学作为计算机科学家的整个教育过程中，您将学习编程、理论思想、逻辑、系统等课程。随着您的进步，您将学习所谓的“交易工具”。本课程旨在帮助您以友好、低压力、高支持的方式学习您需要了解的内容。我们将讨论 UNIX、LaTeX、调试和许多其他基本工具。
@@ -115,28 +115,28 @@ sidebar_position: 4
 ### ⑦ 15-210 并行和顺序数据结构和算法
 了解算法设计中的各种技术，包括分治法、收缩法、随机化、贪心法、蛮力法、归约法和动态规划；了解并行技术，例如扫描（前缀和） 将问题抽象为正式定义的能力；给定定义设计新算法和数据结构的能力；了解渐近分析并解决各种递归；理解纯函数式算法。
 
-**先修课程：** [15-150 函数式编程原理](https://hackway.org/docs/cs/sophomore/functional/cs15150)、[15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/datastructure/cs15122)
+**先修课程：** [15-150 函数式编程原理](https://hackway.org/docs/cs/sophomore/functional/cs15150)、[15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/cpp/cs15122)
 
 **学习地址：** [15-210 并行和顺序数据结构和算法](https://hackway.org/docs/cs/sophomore/algorithm/cs15210)
 
 ### ⑧ 15-213 计算机系统概论
 本课程提供程序员对计算机系统如何执行程序、存储信息和通信的看法。它使学生​​成为更有效的程序员，特别是在处理性能、可移植性和健壮性问题方面。它还作为编译器、网络、操作系统和计算机体系结构课程的基础，这些课程需要对系统级问题有更深入的了解。涵盖的主题包括：机器级代码及其通过优化编译器生成的代码、性能评估和优化、计算机算术、内存组织和管理、网络技术和协议，以及支持并发计算。
 
-**先修课程：**  [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/datastructure/cs15122)
+**先修课程：**  [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/cpp/cs15122)
 
 **学习地址：** [15-213 计算机系统概论](https://hackway.org/docs/cs/sophomore/system/cs15213)
 
 ### ⑨ 15-214 软件构建原理：对象、设计和并发
 今天的软件工程师不太可能从头开始设计数据结构和算法，而更有可能从库和框架组件构建系统。在本课程中，学生在对数据结构、算法、程序结构和计算机结构的基本构建块的理解的基础上，参与与大规模软件系统构建相关的概念。该课程涵盖四个领域的技术主题：（1）复杂系统的设计概念，（2）面向对象的编程，（3）程序的静态和动态分析，以及（4）并发和分布式软件。学生作业涉及使用复杂的软件，例如分布式大型多人游戏系统和图形用户交互框架。
 
-**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、 [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/datastructure/cs15122)、 [15-151 计算机科学的数学基础](https://hackway.org/docs/math/basic/discrete/cs15151)
+**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、 [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/cpp/cs15122)、 [15-151 计算机科学的数学基础](https://hackway.org/docs/math/basic/discrete/cs15151)
 
 **学习地址：** [15-214 软件构建原理：对象、设计和并发](https://hackway.org/docs/cs/sophomore/software/cs15214)
 
 ### ⑩ 15-251 理论计算机科学的伟大思想
 学分本课程是关于如何使用理论思想来制定和解决计算机科学中的问题。它将数学材料与一般问题解决技术和计算机科学应用相结合。示例来自算法、复杂性理论、博弈论、概率论、图论、自动机理论、代数、密码学和组合学。作业涉及数学证明和编程。
 
-**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、 [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/datastructure/cs15122)、 [15-151 计算机科学的数学基础](https://hackway.org/docs/math/basic/discrete/cs15151)
+**先修课程：** [15-121 数据结构简介](https://hackway.org/docs/cs/freshman/datastructure/cs15121)、 [15-122 命令式计算原理](https://hackway.org/docs/cs/freshman/cpp/cs15122)、 [15-151 计算机科学的数学基础](https://hackway.org/docs/math/basic/discrete/cs15151)
 
 **学习地址：** [15-251 理论计算机科学的伟大思想](https://hackway.org/docs/cs/junior/reasoning/cs15251)
 
@@ -145,7 +145,7 @@ sidebar_position: 4
 
 **先修课程：** [15-150 函数式编程原理](https://hackway.org/docs/cs/sophomore/functional/cs15150)、[15-251 理论计算机科学的伟大思想](https://hackway.org/docs/cs/junior/reasoning/cs15251)
 
-**学习地址：** [15-312 编程语言基础](https://hackway.org/docs/cs/sophomore/programming/cs15312)
+**学习地址：** [15-312 编程语言基础](https://hackway.org/docs/cs/freshman/programming/cs15312)
 
 
 ### ⑫ 15-313 软件工程基础

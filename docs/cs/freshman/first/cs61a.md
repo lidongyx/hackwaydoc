@@ -26,6 +26,7 @@ SICP这门课以前是学Scheme编程语言，配套的教材也是神书“巫�
 
 **在线教材：**[SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)
 
+**巫师书教材官网:**[SICP教材官网](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 
 ## 配套视频
 B站视频：[UCB CS 61A: Computer Programs 2020年秋](https://www.bilibili.com/video/BV1s3411G7yM)

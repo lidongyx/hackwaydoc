@@ -77,12 +77,12 @@ sidebar_position: 8
 
 **先修课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
 
-**学习地址：** [CS51 计算中的抽象与设计](https://hackway.org/docs/cs/sophomore/programming/cs51)
+**学习地址：** [CS51 计算中的抽象与设计](https://hackway.org/docs/cs/freshman/programming/cs51)
 
 ### ③ CS61  系统编程和计算机组成原理	
 计算机系统编程、机器组织和性能调整的基础知识。本课程提供扎实的系统编程背景以及对低级机器组织和设计的深刻理解。主题包括 C 和汇编语言编程、程序优化、内存层次结构和缓存、虚拟内存和动态内存管理、并发、线程和同步。
 
-**先修课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)、[CS51 计算中的抽象与设计](https://hackway.org/docs/cs/sophomore/programming/cs51)
+**先修课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)、[CS51 计算中的抽象与设计](https://hackway.org/docs/cs/freshman/programming/cs51)
 
 **学习地址：** [CS61  系统编程和计算机组成原理](https://hackway.org/docs/cs/sophomore/system/cs61)
 
@@ -134,7 +134,7 @@ sidebar_position: 8
 ### ⑪ CS152 编程语言
 全面介绍传统和现代编程语言的主要特征和总体设计，包括语法、形式语义、抽象机制、模块化、类型系统、命名、多态性、闭包、延续和并发。提供设计、评估、选择和使用编程语言所需的智能工具。
 
-**先修课程：** [CS51 计算中的抽象与设计](https://hackway.org/docs/cs/sophomore/programming/cs51)、[CS121 理论计算机科学导论](https://hackway.org/docs/cs/junior/reasoning/cs121)  
+**先修课程：** [CS51 计算中的抽象与设计](https://hackway.org/docs/cs/freshman/programming/cs51)、[CS121 理论计算机科学导论](https://hackway.org/docs/cs/junior/reasoning/cs121)  
 
 **学习地址：** [CS152 编程语言](https://hackway.org/docs/cs/senior/architecture/cs146)
 
