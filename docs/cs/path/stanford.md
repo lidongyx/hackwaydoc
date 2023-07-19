@@ -86,12 +86,12 @@ sidebar_position: 6
 
 **先修课程：** [CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)
 
-**学习地址：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**学习地址：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/freshman/cpp/cs107)
 
 ### ⑤ CS 108 面向对象的系统设计
 大型 OOP 库环境中的软件设计和构建。用 Java 授课。主题：OOP 设计、设计模式、测试、图形用户界面 (GUI) OOP 库、软件工程策略、团队编程方法
 
-**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/freshman/cpp/cs107)
 
 **学习地址：** [CS 108 面向对象的系统设计](https://hackway.org/docs/cs/sophomore/software/cs108)
 
@@ -106,21 +106,21 @@ sidebar_position: 6
 ### ⑦ CS 110 计算机系统原理
 计算机软硬件系统工程原理与实践. 主题包括：控制复杂性的技术；使用客户端-服务器设计、虚拟内存和线程的强大模块化；网络；并行活动的原子性和协调性。
 
-**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/freshman/cpp/cs107)
 
 **学习地址：** [CS 110 计算机系统原理](https://hackway.org/docs/cs/sophomore/system/cs110)
 
 ### ⑧ CS 140 操作系统
 通过操作系统设计和实现的镜头涵盖计算机系统中的关键概念。主题包括线程、调度、n 进程、虚拟内存、同步、多核架构、n 内存一致性、硬件原子、内存分配器、链接、I/O、n 文件系统和虚拟机。Pintos 操作系统中的四核编程项目强化了这些概念。
 
-**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/freshman/cpp/cs107)
 
 **学习地址：** [CS 140 操作系统](https://hackway.org/docs/cs/sophomore/operating/cs140)
 
 ### ⑨ CS 143 编译器
 编译器和解释器的设计和实现的原则和实践。主题：词法分析；解析理论；符号表；类型系统；范围; 语义分析；中间表示；运行时环境；代码生成；和基本的程序分析和优化。学生在课程编程项目中为简单的面向对象语言构建编译器。
 
-**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/freshman/cpp/cs107)
 
 **学习地址：** [CS 143 编译器](https://hackway.org/docs/cs/junior/compiler/cs143)
 
@@ -135,7 +135,7 @@ sidebar_position: 6
 ### ⑪ CS145 数据管理和数据系统
 介绍数据库和数据密集型系统的使用、设计和实现，包括数据模型；架构设计；数据存储; 查询处理、查询优化和成本估算；并发控制、事务和故障恢复；分布式和并行执行；半结构化数据库；和数据系统支持高级分析和机器学习。
 
-**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)
+**先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)、[CS 107 计算机组成与系统](https://hackway.org/docs/cs/freshman/cpp/cs107)
 
 **学习地址：** [CS145 数据管理和数据系统](https://hackway.org/docs/cs/junior/database/cs145)
 
@@ -150,7 +150,7 @@ sidebar_position: 6
 ### ⑬ CS 166 数据结构
 本课程深入探讨数据结构的设计、分析、实现和理论。在本季度中，我们将探索数据结构设计中的基本技术（等距、定名、随机化等），并探索对开发新数据结构有用的观点和直觉。我们将通过调查经典数据结构（如 Fibonacci 堆和后缀树）以及更现代的数据结构（如 count-min 草图和 rangenminimum 查询）来做到这一点。到我们完成时，我们将看到一些真正漂亮的有效解决问题的策略。
 
-**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/sophomore/system/cs107)、[CS 161 算法的设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs161)
+**先修课程：** [CS 107 计算机组成与系统](https://hackway.org/docs/cs/freshman/cpp/cs107)、[CS 161 算法的设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs161)
 
 **学习地址：** [CS 166 数据结构](https://hackway.org/docs/cs/sophomore/algorithm/cs166)
 

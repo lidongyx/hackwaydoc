@@ -8,7 +8,7 @@ description: 伯克利数据结构 Berkeley CS61B Data Structures
 **课程官网地址：**[2023年春](https://sp23.datastructur.es/)  
 **先修课程：** [CS61A 计算机程序的结构和解释](https://hackway.org/docs/cs/freshman/first/cs61a)、微积分     
 **重要程度：** ※※※※※  
-**课程评点：** 本课所使用的编程语言是Java，采用的教材和普林斯顿[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)都是《算法》红皮书，两门课可以结合起来学习   
+**课程评点：** 本课所使用的编程语言是Java，采用的教材和普林斯顿[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)都是《算法》红皮书，两门课可以结合起来学习；同时本课还有一个配套的实验课CS61BL   
 
 ## 课程说明
 基本的动态数据结构，包括线性列表、队列、树和其他链接结构；数组字符串和哈希表。存储管理。软件工程的基本原理。抽象数据类型。排序和搜索算法。Java 编程语言简介。
@@ -27,6 +27,11 @@ CS61B所采用的编程语言是Java，因此这门课需要你自学Java，本�
 而关于数据结构与算法部分，当然少不了Java算法红皮书《算法》了。
 
 <Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s29107491.jpg" url="https://item.jd.com/11098789.html" title="算法（第4版）"></Book>
+
+## 配套的实验课
+Berkeley的CS61b还有专门的实验课CS61BL，这门实验课和主课CS61b一样都是4学分（在学时上要予以重视），这门实验课配套的资源非常丰富且完善，对数据结构有追求的同学强烈建议一起了解一下。
+
+**实验课官网：**[CS61BL 2023年夏学期官网](https://cs61bl.org/su23/resources)
 
 
 ## 配套视频

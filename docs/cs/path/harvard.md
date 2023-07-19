@@ -84,7 +84,7 @@ sidebar_position: 8
 
 **先修课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)、[CS51 计算中的抽象与设计](https://hackway.org/docs/cs/freshman/programming/cs51)
 
-**学习地址：** [CS61  系统编程和计算机组成原理](https://hackway.org/docs/cs/sophomore/system/cs61)
+**学习地址：** [CS61 系统编程和计算机组成原理](https://hackway.org/docs/cs/sophomore/system/cs61)
 
 
 ### ④ CS107 计算科学的系统开发

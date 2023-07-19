@@ -24,7 +24,7 @@ SICP这门课以前是学Scheme编程语言，配套的教材也是神书“巫�
 
 <Book img="https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/s33975560.jpg" url="https://item.jd.com/12653166.html" title="计算机程序的构造和解释（原书第2版）"></Book>
 
-**在线教材：**[SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)
+**在线教材：**[SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)、[Composing Programs](https://www.composingprograms.com/)
 
 **巫师书教材官网:**[SICP教材官网](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 

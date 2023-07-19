@@ -15,6 +15,12 @@ sidebar_position: 1
 
 因此Berkeley是非常重视计算机体系结构的学校，和MIT、CMU所学习的路径有点不同，如果对RISC-V指令集架构比较感兴趣的同学，强烈建议学习Berkeley相关的课程体系。
 
+:::info 说明
+
+和其他名校不同的是，Berkeley把C编程语言放在了Python和数据结构之后的CS61C这门课里（其他学校通常会单独把C语言独立一门课），也就是这门课是Berkeley学习路线的第三课。本课将C语言的学习与计算机系统深度绑定，这种处理方式和哈佛大学[CS61 系统编程和计算机组成原理](https://hackway.org/docs/cs/sophomore/system/cs61)比较类似。
+
+:::
+
 ## 配套教材
 
 
