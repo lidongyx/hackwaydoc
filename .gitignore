@@ -1,16 +1,16 @@
 # Dependencies
 /node_modules
 
-# doc专属
-/blog
-/src
-/static
-/yarn.lock
-/sidebars.js
-/docusaurus.config.js
-/package.json
-/.env
-/babel.config.js
+# # doc专属
+# /blog
+# /src
+# /static
+# /yarn.lock
+# /sidebars.js
+# /docusaurus.config.js
+# /package.json
+# /.env
+# /babel.config.js
 
 # Production
 /build
