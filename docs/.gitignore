@@ -7,7 +7,6 @@
 # Generated files
 .docusaurus
 .cache-loader
-start.md
 
 # Misc
 .DS_Store
@@ -19,6 +18,3 @@ start.md
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-
-get.md

@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'HackWay技术学习路线',
-  tagline: 'HackWay为程序员自学计算机专业、编程语言提供循序渐进的学习路线、资源以及交流社区',
+  tagline: '为计算机专业、程序员自学系统的计算机专业知识、编程语言提供循序渐进的学习路线、资源以及交流社区',
   url: 'https://hackway.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
