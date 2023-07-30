@@ -23,8 +23,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // editUrl:
-          //   'https://github.com/lidongyx/hackwaydoc/blob/master/',
+          editUrl:
+            'https://github.com/lidongyx/hackwaydoc/blob/master/',
         },
         blog: {
           showReadingTime: true,
