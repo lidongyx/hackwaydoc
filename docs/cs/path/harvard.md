@@ -142,7 +142,7 @@ sidebar_position: 8
 ### ⑫ CS153 编译器
 为编程语言实现高效的解释器和编译器。相关的算法和语用问题。强调实际应用，包括那些在适当的编程语言之外的应用。还展示了与编程语言理论和设计的关系。参与者构建一个工作编译器，包括词法分析、解析、类型检查、代码生成和寄存器分配。暴露于运行时问题和优化。
 
-**先修课程：** [CS50 计算机科学导论](https://hackway.org/docs/cs/freshman/first/cs50x)
+**先修课程：** [CS51 计算中的抽象与设计](https://hackway.org/docs/cs/freshman/programming/cs51)、[CS61 系统编程和计算机组成原理](https://hackway.org/docs/cs/sophomore/system/cs61)
 
 **学习地址：** [CS153 编译器](https://hackway.org/docs/cs/junior/compiler/cs153)
 
