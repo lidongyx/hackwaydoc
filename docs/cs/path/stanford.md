@@ -101,7 +101,7 @@ sidebar_position: 6
 
 **先修课程：** [CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)、[CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)
 
-**学习地址：** 暂未收录
+**学习地址：** [CS 109 计算机科学家的概率论](https://hackway.org/docs/math/basic/probability/cs109)
 
 ### ⑦ CS 110 计算机系统原理
 计算机软硬件系统工程原理与实践. 主题包括：控制复杂性的技术；使用客户端-服务器设计、虚拟内存和线程的强大模块化；网络；并行活动的原子性和协调性。
