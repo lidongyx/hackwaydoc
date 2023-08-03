@@ -86,7 +86,7 @@ sidebar_position: 5
 ### ⑥ CS161 计算机安全
 计算机安全简介。密码学，包括加密、身份验证、散列函数、密码协议和应用程序。操作系统安全，访问控制。网络安全、防火墙、病毒和蠕虫。软件安全、防御性编程和基于语言的安全。来自真实世界系统的案例研究。
 
-**先修课程：** [CS61C 计算机组成原理](https://hackway.org/docs/cs/sophomore/system/cs61c)、[CS70 离散数学和概率论](https://hackway.org/docs/math/basic/discrete/cs70)
+**先修课程：** [CS61C 计算机组成原理](https://hackway.org/docs/cs/sophomore/system/cs61c)、[CS70 离散数学和概率论](https://hackway.org/docs/math/basic/discrete/cs70)   
 
 **学习地址：** [CS161 计算机安全](https://hackway.org/docs/cs/junior/security/cs161)
 
