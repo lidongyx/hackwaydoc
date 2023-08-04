@@ -5,11 +5,8 @@ sidebar_position: 1
 # 斯坦福 Math50系列 线性代数
 
 
-
-
-
 >**课程名称：** Linear Algebra and Differential Calculus of Several Variables      
-**课程官网地址：**[MATH 51课程官网](https://web.stanford.edu/class/math51/)、[MATH 53课程官网](http://web.stanford.edu/class/math53/cgi-bin/p53.pl)        
+**课程官网地址：**[MATH 51课程官网](https://web.stanford.edu/class/math51/)、[MATH 52课程官网](http://math.stanford.edu/~jli/Math52.html)、[MATH 53课程官网](http://web.stanford.edu/class/math53/cgi-bin/p53.pl)        
 **先修课程：** 无  
 **重要程度：** ※※※※※  
 **课程评点：** 

@@ -17,3 +17,7 @@ sidebar_position: 2
 ## 课程说明
 
 
+
+## 推荐教材
+Joe Blitzstein and Jessica Hwang的《Introduction to Probability 》
+

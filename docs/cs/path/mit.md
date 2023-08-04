@@ -11,7 +11,7 @@ sidebar_position: 2
 ## 课程说明
 :::info 说明
 
-MIT很多课程几年就更新一次，可以尽可能选择最新的，我在整理的过程中也会尽量把最新的开放课程放在课程地址的最前面。有些课程标有“sc”，如“6.00SC”，这个指的是专门为公开课提供的自学课程
+MIT在2023年春，更新了计算机专业所有课程的编号，比如6.004这门课更改为6.1910，考虑到对外开放的课程资源都是几年前的，而新编号也就是2023年新出的课程基本都没有公开的资源，同时尽管课程编号修改了，课程原本的新官网也会备注以前的编号，所以这里仍然使用老编号方便大家查阅。
 
 :::
 
@@ -25,9 +25,23 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 :::
 
 ## 课程体系
+计算机专业涵盖算法与理论、软件工程、编程语言、计算机系统、人机交互与图形学、人工智能与机器学习等广泛领域。在2022年，MIT对计算机科学与工程的课程要求进行了一系列更新，分为2017年课程要求和2022年课程要求。
+### 2017年课程要求
 以下是MIT 计算机科学与工程专业本科的课程学习路线图，非常详细的列出了该专业本科毕业生应该学习哪些课程，课程分为导论课、基础课、头部课和进阶课。
 
 ![MIT CS学习路线图](https://hackweek-1251009918.cos.ap-shanghai.myqcloud.com/hackway/cs/v2-bcbfdcbce6c171da5ce0e2ff39744c66_1440w.png)
+
+### 2022年课程要求
+2022年相比于2017年，增加了一门基础编程技能课，也就是C语言和汇编语言相关课程；人工智能和机器学习不再是必修，而是选修。
+
+
+- **两门编程技能课：**[6.0001 Python计算机科学编程导论](https://hackway.org/docs/cs/freshman/first/cs60001)（新编号为6.100A），6.100L(本课是6.0001的全学期版本，覆盖的材料是一样​​的，但速度减慢了，因此学6.0001即可)以及 6.0004（新编号为6.1900，这是一门主讲C语言和汇编语言的课程，目前没有对外开放，可以去学习普林斯顿[COS217 编程系统导论](https://hackway.org/docs/cs/freshman/cpp/cos217)、 [CS 107 计算机组成与系统](https://hackway.org/docs/cs/freshman/cpp/cs107)等课程）
+- **三门数学课：**其中必修离散数学[MIT 6.042 计算机科学中的数学](https://hackway.org/docs/math/basic/discrete/cs6042)，以及选择两门数学课（推荐MATH 18.05和18.06，这两门课的先修课都需要掌握MATH 18.01、18。02）
+- **三门基础课程：**[6.009 编程基础](https://hackway.org/docs/cs/freshman/first/cs6009)、[6.006 算法概论](https://hackway.org/docs/cs/freshman/datastructure/cs6006)、[6.004	计算架构](https://hackway.org/docs/cs/sophomore/system/cs6004)
+- **三门必修核心课程：**必修[6.031 软件构建要素](https://hackway.org/docs/cs/sophomore/software/cs6031)、[6.033 计算机系统工程](https://hackway.org/docs/cs/sophomore/system/cs6033)以及从
+[6.046 算法设计与分析](https://hackway.org/docs/cs/sophomore/algorithm/cs6046)和
+- **6门选修课：**包括2门CS学习路线的课程，两门人工智能、CS或EE的课程，两门EECS的课程；
+
 
 
 ## 必修推荐课程
@@ -80,6 +94,13 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 
 ### ⑧ 6.035 计算机语言工程
 分析与高级编程语言的实现相关的问题。编译器的基本概念、功能和结构。理论与实践的互动。使用工具构建软件。包括一个关于编译器设计和实现的多人项目。   
+
+**先修课程：** [6.031 软件构建要素](https://hackway.org/docs/cs/sophomore/software/cs6031)、[6.004	计算架构](https://hackway.org/docs/cs/sophomore/system/cs6004)       
+
+**学习地址：** [6.035 计算机语言工程](https://hackway.org/docs/cs/sophomore/system/cs6033)
+
+### ⑧ MIT 6.045 可计算性与复杂性理论
+计算理论的数学导论。严格探索计算机可以通过有限自动机、电路、图灵机和通信复杂性有效解决哪些类型的任务，向学生介绍数学中的一些主要开放问题。培养根据计算任务的难度对计算任务进行分类的技能。讨论计算中的其他基本问题，包括停止问题、丘奇图灵论、P 与 NP 问题以及随机性的力量。 
 
 **先修课程：** [6.031 软件构建要素](https://hackway.org/docs/cs/sophomore/software/cs6031)、[6.004	计算架构](https://hackway.org/docs/cs/sophomore/system/cs6004)       
 
@@ -154,7 +175,9 @@ MIT 计算机相关的专业有两个，电气工程和计算机科学（Electri
 
 ## 专业选课表
 
-- [计算机科学与工程（课程 6-3）学位课程要求](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+- [2017年版 计算机科学与工程（课程 6-3）学位课程要求](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+
+- [2022年版 计算机科学与工程（课程 6-3）学位课程要求](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
 
 - [MIT 计算机专业课程目录](http://catalog.mit.edu/subjects/6/)
 
