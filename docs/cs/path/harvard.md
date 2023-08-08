@@ -180,8 +180,7 @@ sidebar_position: 8
 
 
 ## 专业选课表
-- [2021年级学位要求课程](https://csadvising.seas.harvard.edu/concentration/requirements/)
-- [2020年级学位要求课程](https://csadvising.seas.harvard.edu/concentration/requirements/2020/)
+- [哈佛计算机专业学位要求课程](https://csadvising.seas.harvard.edu/concentration/requirements/)
 - [哈佛计算机专业课程目录](https://seas.harvard.edu/computer-science/courses)
 
 

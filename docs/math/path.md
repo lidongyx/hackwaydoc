@@ -72,16 +72,109 @@ MATH20系列是围绕微积分展开的系列课程，它主要包括三门课�
 **先修课程：** [斯坦福 CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)、[CS106B/CS106X 程序抽象](https://hackway.org/docs/cs/freshman/cpp/cs106b)            
 **学习地址：** [斯坦福 CS 103 计算的数学基础](https://hackway.org/docs/math/basic/discrete/cs103)
 
+## Berkeley数学课程
+和很多学校一样，相同主题的数学课会有不同的内容与难度，比如Berkeley的MATH55也是讲离散数学的，但是这些数学课并不一定都适合计算机专业的学生，比如Berkeley CS就推荐计算机专业的学生学习 CS70而不是MATH55（因此本站也就不收录MATH 55）。
+
+### ① 伯克利 Math1A/1B 微积分
+介绍一元函数的微分和积分计算，包括应用和超越函数的介绍。积分技巧；积分的应用。无穷序列和级数。一阶常微分方程。二阶常微分方程；振荡和阻尼；常微分方程的级数解。
+
+**先修课程：** 无            
+**学习地址：** [伯克利 Math1A/1B 微积分](https://hackway.org/docs/math/basic/discrete/cs103)
+
+### ② 伯克利 Math53 多变量微积分
+参数方程和极坐标。 2 维和 3 维欧几里得空间中的向量。偏导数。多重积分。向量微积分。格林、高斯和斯托克斯定理
+
+**先修课程：** [伯克利 Math1A/1B 微积分](https://hackway.org/docs/math/basic/discrete/cs103)                
+**学习地址：** [伯克利 Math53 多变量微积分](https://hackway.org/docs/math/basic/calculus/math53)
 
 
+### ③ 伯克利 Math54 线性代数和微分方程
+基础线性代数；矩阵算术和行列式。向量空间；内积空间。特征值和特征向量；线性变换，对称矩阵。一阶线性 ODE 系统：将高阶方程简化为单阶系统，使用特征值的齐次常系数方程。
+
+**先修课程：** [伯克利 Math1A/1B 微积分](https://hackway.org/docs/math/basic/discrete/cs103)                
+**学习地址：** [伯克利 Math54 线性代数和微分方程](https://hackway.org/docs/math/basic/linearalgebra/math54)
+
+### ④ 伯克利 CS70 离散数学和概率论
+逻辑、无穷大和归纳；应用包括不确定性和稳定的婚姻问题。模块化算术和 GCD；应用包括素数测试和密码学。多项式；示例包括纠错码和插值。概率包括样本空间、独立性、随机变量、大数定律；示例包括负载平衡、存在参数、贝叶斯推理。 
+
+**先修课程：** [伯克利 Math1A/1B 微积分](https://hackway.org/docs/math/basic/discrete/cs103)以及一定的编程经验                
+**学习地址：** [伯克利 Math54 线性代数和微分方程](https://hackway.org/docs/math/basic/linearalgebra/math54)
+
+## Harvard 数学课程
+### ① 哈佛 MATH 1a/1b  微积分导论
+MATH 1a 使用基于函数的方法来模拟现实世界现象并探索变化率（导数）和净变化（积分）的概念。要求学生以各种方式探索真实数据集：确定适当的函数来对数据进行建模，使用变化率进行预测并探索数据变化的原因和可能的解释，并使用净变化来提供基于数据并解释他们在解释中所做的假设。
+
+MATH 1b 讲现代数学的语言需要熟练掌握本课程的主题：无穷级数、积分和微分方程。使用积分和微分方程对实际情况进行建模。了解如何使用级数表示有趣的函数，并找到研究微分方程的定性、数值和分析方法。培养概念理解和应用能力。
+
+**先修课程：** 无            
+**学习地址：** [哈佛 MATH 1a/1b  微积分导论](https://hackway.org/docs/math/basic/calculus/math1ab)
+
+### ② 哈佛 MATH22a/22b 线性代数和向量分析
+MATH 22a涵盖了对理论科学（应用或纯数学、计算机科学、物理学、数学生物学、统计学或更数学经济学）感兴趣的学生的多元微积分和线性代数。该课程开始有点陡峭，但它将使我们能够巡航再高一点，并利用线性代数的力量来获得更多的见解
+
+MATH 22b 是哈佛大学数学 22a 的延续。学习线性代数、微分方程和调和分析（傅里叶理论）。
+
+**先修课程：** 无            
+**学习地址：** [哈佛 MATH22a/22b 线性代数和向量分析](https://hackway.org/docs/math/basic/linearalgebra/math22ab)
+
+### ③ 哈佛 MATH 21A 多变量微积分
+为了了解微积分如何应用于由多个变量描述的实际情况，我们研究了使用不同坐标系的曲线、曲面和实体区域的积分；曲线和曲面的参数化；矢量、直线和平面；偏导数和梯度；有约束和无约束优化；矢量场的散度和旋度；以及格林定理、斯托克斯定理和散度定理
+
+**先修课程：** [哈佛 MATH 1a/1b  微积分导论](https://hackway.org/docs/math/basic/calculus/math1ab)、[哈佛 MATH22a/22b 线性代数和向量分析](https://hackway.org/docs/math/basic/linearalgebra/math22ab)                   
+**学习地址：** [ 哈佛 MATH 21A 多变量微积分](https://hackway.org/docs/math/basic/calculus/math1ab)
+
+### ④ 哈佛 STAT110 概率论
+Stat 110 介绍了概率作为一种语言和一组工具，用于理解统计、科学、风险和随机性。这些想法和方法在统计学、科学、工程、经济、金融和日常生活中都很有用。主题包括以下内容。基础知识：样本空间和事件、调节、贝叶斯定理。随机变量及其分布：分布、矩生成函数、期望、方差、协方差、相关性、条件期望。单变量分布：正态分布、t 分布、二项分布、负二项分布、泊松分布、Beta 分布、Gamma 分布。多元分布：联合分布、条件分布和边际分布、独立分布、变换、多项式、多元正态分布。极限定理：大数定律、中心极限定理。马尔可夫链：转移概率、平稳分布、可逆性、收敛性。
+
+**先修课程：** [哈佛 MATH 1a/1b  微积分导论](https://hackway.org/docs/math/basic/calculus/math1ab)、[哈佛 MATH22a/22b 线性代数和向量分析](https://hackway.org/docs/math/basic/linearalgebra/math22ab)                   
+**学习地址：** [哈佛 STAT110 概率论](https://hackway.org/docs/math/basic/probability/STAT110)
+
+### ⑤ 哈佛 CS20 计算机科学中的离散数学
+为了了解微积分如何应用于由多个变量描述的实际情况，我们研究了使用不同坐标系的曲线、曲面和实体区域的积分；曲线和曲面的参数化；矢量、直线和平面；偏导数和梯度；有约束和无约束优化；矢量场的散度和旋度；以及格林定理、斯托克斯定理和散度定理
+
+**先修课程：** [哈佛 MATH 1a/1b  微积分导论](https://hackway.org/docs/math/basic/calculus/math1ab)、[哈佛 MATH22a/22b 线性代数和向量分析](https://hackway.org/docs/math/basic/linearalgebra/math22ab)、[ 哈佛 MATH 21A 多变量微积分](https://hackway.org/docs/math/basic/calculus/math1ab)                      
+**学习地址：** [哈佛 CS20 计算机科学中的离散数学](https://hackway.org/docs/math/basic/discrete/cs20)
 
 
+## Princeton 数学课程
+普林斯顿大学计算机专业同样也是必修微积分、线性代数（普林斯顿更侧重于计算机三个方向的核心课程：理论、系统、应用，没有对概率统计和离散数学有严格要求），由于这些数学课程都不对外开放，因此本文档只列出这些数据课程的大致介绍，不会收录这些课程：
+
+- **MAT 103 Calculus I（微积分）：**微积分第一学期。主题包括极限、连续性、导数、基本微分公式和应用（曲线绘制、优化、相关率）、定积分和不定积分、微积分基本定理。
+- **MAT 104 Calculus II（微积分）：**MAT103 的继续。主题包括积分技术、弧长、面积、体积、级数收敛和不定积分、洛必塔法则、幂级数和泰勒定理、微分方程和复数简介。
+- **MAT 201 Multivariable Calculus（多变量微积分）：**平面和空间中的向量、向量函数和运动、曲面、坐标系、两个或三个变量的函数及其导数、最大值和最小值及其应用、二重和三重积分、向量场和斯托克斯定理。
+- **MAT 202 Linear Algebra with Applications（线性代数及其应用）：**矩阵、线性变换、线性独立性和维数、基数和坐标、行列式、正交投影、最小二乘法、特征向量及其在二次形式和动力系统中的应用
+- **MAT 217 Honors Linear Algebre 荣誉线性代数：**一门严格的线性代数课程，强调证明而不是应用。主题包括向量空间、线性变换、内积空间、行列式、特征值、凯莱-汉密尔顿定理、Jordan 形式、正规变换的谱定理、双线性和二次形式。
 
 
+## CMU 数学课程
+### ① CMU 21-120/122 积分与近似
+通过三角代换和部分分数进行积分；弧长；不正确的积分；数值积分的辛普森法则和梯形法则；可分离微分方程、牛顿法、欧拉法、泰勒定理，包括余数、序列、级数、幂级数的讨论。参数曲线、极坐标、向量、点积。 
+
+**先修课程：** 无         
+**学习地址：** [CMU 21-120/122 积分与近似](https://hackway.org/docs/math/basic/calculus/math21122)
+
+### ② CMU 21-127 数学概念
+本课程介绍数学中涉及的基本概念、思想和工具。因此，它的主要重点是介绍非形式逻辑和数学证明的方法。这些学科与数学在许多领域的应用密切相关，特别是计算机科学。讨论的主题包括初等数论、归纳法、集合代数、关系、等价关系、同余、分区和函数（包括注入、满射和双射）的基本介绍。实数、有理数和无理数的基本介绍。集合的上确界和下确界。   
+
+**先修课程：** [CMU 21-120/122 积分与近似](https://hackway.org/docs/math/basic/calculus/math21122)                
+**学习地址：** [CMU 21-127 数学概念](https://hackway.org/docs/math/basic/discrete/math21127)
 
 
+### ③ CMU 21-241 矩阵和线性变换
+线性代数的第一门课程，面向科学家、工程师、数学家和计算机科学家。学生将被要求写一些简单的证明。涵盖的主题：复数、实数和复数向量和矩阵、矩阵的行空间和列空间、秩和零、通过矩阵行约简求解线性系统、逆矩阵和行列式、基变化、线性变换、内积向量、正交基和 Gram-Schmidt 过程、特征向量和特征值、矩阵的对角化、对称和正交矩阵。 
 
+**先修课程：** [CMU 21-127 数学概念](https://hackway.org/docs/math/basic/discrete/math21127)                   
+**学习地址：** [CMU 21-241 矩阵和线性变换](https://hackway.org/docs/math/basic/linearalgebra/math21241)
 
+### ④ CMU 21-259 三维微积分
+矢量、直线、平面、二次曲面、极坐标、柱坐标和球坐标、偏导数、方向导数、梯度、散度、旋度、链式法则、最大最小问题、多重积分、参数曲面和曲线、线积分、曲面积分、格林高斯定理。    
 
+**先修课程：** [CMU 21-120/122 积分与近似](https://hackway.org/docs/math/basic/calculus/math21122)                   
+**学习地址：** [CMU 21-259 三维微积分](https://hackway.org/docs/math/basic/calculus/math21259)
 
+### ⑤ CMU 15-259 概率与计算
+本课程介绍概率在计算机科学理论和实践中的应用，以应用和当前研究发展为动力。本课程分为 3 个部分：第一部分是概率简介，包括离散和连续随机变量、重尾、模拟、拉普拉斯变换、z 变换以及生成函数的应用。第二部分深入介绍了浓度不等式，例如 Chernoff 界和 SLLN 界，以及它们在随机算法中的应用。第三部分涵盖马尔可夫链（离散时间和连续时间）和随机过程及其在排队系统性能建模中的应用。
+
+**先修课程：** [15-251 理论计算机科学的伟大思想](https://hackway.org/docs/cs/junior/reasoning/cs15251)、[CMU 21-259 三维微积分](https://hackway.org/docs/math/basic/calculus/math21259)                  
+**学习地址：** [CMU 15-259 概率与计算](https://hackway.org/docs/math/basic/calculus/math21259)
 

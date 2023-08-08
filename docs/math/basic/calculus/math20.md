@@ -4,10 +4,6 @@ sidebar_position: 1
 
 # 斯坦福 Math 20系列  微积分
 
-
-
-
-
 >**课程名称：** Single Variable Calculus / Multivariable Calculus    
 **课程官网地址：**[MATH 19](https://rlemke01.math.tufts.edu/teaching/math19/)、[MATH 20](https://rlemke01.math.tufts.edu/teaching/math19/)、[MATH 21](http://web.stanford.edu/class/math21/)      
 **先修课程：** 无  

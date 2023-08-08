@@ -9,31 +9,35 @@ sidebar_position: 8
 ## 课程说明
 普林斯顿大学计算机专业课程分为基础课、必修课、选修课，学生需要学完所有基础课程，至少8门必修课以及至少3门选修课（必须是COS300开头或更高的COS课程，其中COS500为研究生课程）。
 
-基础课包含数学类微积分（上、下）、线性代数以及工程导论，除此以外还需要学习计算机COS126（计算机科学：跨学科方法 ）、COS217（编程系统导论）和COS226（算法与数据结构）以及COS340 计算推理这四门课程必须在大三结束前学完。
+基础课包含数学类微积分（上、下）、线性代数以及工程导论，除此以外还需要学习计算机COS126（计算机科学：跨学科方法 ）、COS217（编程系统导论）和COS226（算法与数据结构）以及COS340(现在改为COS240) 计算推理这四门课程必须在大三结束前学完。
 
 和其他计算机专业一样，普林斯顿开始将计算机专业的必修课程分为4类：研究计算机硬件和软件设计的计算机系统、使用数学来严格发展研究领域的基础理论课、人工智能和机器学习以及比较宽泛的应用课程（比如函数式编程、图形学、信息安全、人机交互等）。
 
-:::info 说明
+## 选课说明
+:::info 注意
 
-从普林斯顿最新的课程安排来看，物理、化学等理科课程逐渐被排除在计算机专业之外，而人工智能和机器学习则被纳入到计算机专业必修课程之中。
+从普林斯顿2023年课程安排来看，物理、化学等理科课程已经被排除在计算机专业之外，而以往的必修课人工智能和机器学习已经不再是必修，改为应用类的选修。在2023年前，学生需要从以下4类专业课程（计算机系统、人工智能与机器学习、理论课程、应用课程）中都选择一门课程作为必修，同时从这4类里要选择8门必修课，以及3门选修课（选修课也可以是COS500开头的研究生课）。而2023年后，则只有3类课程，即理论、系统、应用，不再对人工智能和机器学习有必修要求。
 
 :::
 
-学生需要从以下4类专业课程中都选择一门课程作为必修，同时你至少从以下课程里要选择8门必修课，以及3门选修课（选修课也可以是COS500开头的研究生课），也就是说建议你从下列课程里选择11门课。
+
+
+
+
 
 ### ① 计算机系统
 - COS375 (Computer Architecture and Organization)
+- COS316 Principles of Computer System Design (Fall 2019 Course)
 - COS318 (Operating Systems)
-- COS418 (Distributed Systems)                      
+- COS320 Compiling Techniques
+- COS333 Advanced Programming Techniques
+- COS375 (ELE 375) Computer Architecture and Organization
+- COS418 (Distributed Systems)
+- COS425 Database and Information Management Systems                      
 - COS461 (Computer Networks)
 
-### ② 人工智能与机器学习
-- COS324 (Introduction to Machine Learning)
-- COS424 (Fundamentals of Machine Learning)
-- COS429 (Computer Vision)
-- COS484 (Natural Language Processing)
-
-### ③ 理论课程
+### ② 理论课程
+- COS240 (Reasoning about Computation) 
 - COS423 (Theory of Algorithms)
 - COS433 (Cryptography)
 - COS445 (Networks, Economics, and Computing)
@@ -41,13 +45,27 @@ sidebar_position: 8
 
 ### ③ 应用课程
 - COS326 (Functional Programming)
-- COS333 (Advanced Programming Techniques)
-- COS343 (Algorithms for Computational Biology)
 - COS426 (Computer Graphics)
 - COS432 (Information Security)
 - COS436 (Human-Computer Interface Technology)
 - COS448 (Innovating across Technology, Business, and Markets)
+- COS324 (Introduction to Machine Learning)
+- COS424 (Fundamentals of Machine Learning)
+- COS429 (Computer Vision)
+- COS484 (Natural Language Processing)
 
+## 计算机专业学习目标
+
+计算机科学专业的主要学习目标如下：
+
+- 学生将能够理解、修改、调试、重构和分析各种不同编程语言的程序；
+- 学生将能够学习未来遇到的新的编程语言和计算范例；
+- 学生将能够阅读和理解计算机科学领域的技术文献；
+- 学生将能够在自己选择的计算机科学领域计划并完成一个或两个学期的项目；
+- 学生将能够识别、隔离和解决重要的技术子问题，从而解决更重要的问题；
+- 学生将能够以口头和书面形式清晰地表达计算机科学的技术思想；
+- 学生将能够识别和评估其学习领域的相关工作；
+- 学生将表现出独立工作来实现上述所有目标的能力。
 
 ## 推荐学习课程
 ### ① COS126 计算机科学：跨学科方法
@@ -77,7 +95,7 @@ sidebar_position: 8
 
 **先修课程：** [COS126 计算机科学：跨学科方法](https://hackway.org/docs/cs/freshman/first/cos126)、[COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226) 以及 线性代数
 
-**学习地址：** [COS240 计算推理](https://hackway.org/docs/cs/junior/reasoning/cos340)
+**学习地址：** [COS240 计算推理](https://hackway.org/docs/cs/junior/reasoning/cos240)
 
 ### ⑤ COS316 计算机系统设计原理
 本课程教授学生计算机系统的设计、实现和评估，包括操作系统、网络和分布式系统。该课程将教授学生评估性能并研究现有系统的设计选择。学生还将学习支持模块化、性能和安全性设计目标的通用系统概念。学生将应用在讲座和阅读中学到的材料来设计、构建和评估新的系统组件。
@@ -137,7 +155,7 @@ sidebar_position: 8
 ### ⑫ COS423 算法导论
 设计和分析高效的数据结构和算法。构建和分析算法的一般技术。NP完全性简介。
 
-**先修课程：** [COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)、 [COS340 计算推理](https://hackway.org/docs/cs/junior/reasoning/cos340)
+**先修课程：** [COS226 算法和数据结构](https://hackway.org/docs/cs/freshman/datastructure/cos226)、 [COS240 计算推理](https://hackway.org/docs/cs/junior/reasoning/cos240)
 
 **学习地址：** [COS423 算法导论](https://hackway.org/docs/cs/sophomore/algorithm/cos423)
 
