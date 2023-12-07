@@ -87,15 +87,15 @@ const config = {
             items: [
               {
                 to: 'docs/java/intro',
-                label: 'Java',
+                label: 'Java后端',
               },
               {
                 to: 'docs/cpp/intro',
-                label: 'C++',
+                label: 'C++开发',
               },
               {
                 to: 'docs/js/intro',
-                label: 'JavaScript',
+                label: 'JS/TS前端',
               },
      
               {
