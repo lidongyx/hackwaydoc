@@ -1,6 +1,7 @@
 
 # 音视频解决方案
 
+比较火的方向，短视频、在线视频会议、视频音乐播放器
 对webassembly、FFmpeg、OpenGL、WebGL等了解或掌握
 
 

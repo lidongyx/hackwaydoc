@@ -77,6 +77,10 @@ const config = {
               to: 'docs/math/intro',
               label: '大学数学',
             },
+            {
+              to: 'docs/ai/intro',
+              label: '人工智能',
+            },
             ]
           },
 
@@ -97,11 +101,12 @@ const config = {
                 to: 'docs/js/intro',
                 label: 'JS/TS前端',
               },
-     
               {
-                to: 'docs/ai/intro',
-                label: '人工智能',
+                to: 'docs/devops/intro',
+                label: '运维工程师',
               },
+     
+
             ],
           },
           {
