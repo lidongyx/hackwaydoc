@@ -1,18 +1,11 @@
 import React from "react";
 import Layout from "@theme/Layout";
-import {translate} from '@docusaurus/Translate';
 
 export default function qrcode() {
   return (
     <Layout
-      title={translate({
-        id: 'pages.qrcode.meta.title',
-        message: 'HackWay技术交流群',
-      })}
-      description={translate({
-        id: 'pages.qrcode.meta.description',
-        message: '欢迎加入计算机专业技术学习交流群',
-      })}
+      title="HackWay技术交流群"
+      description="欢迎加入计算机专业技术学习交流群"
     >
       <div
         style={{
@@ -26,13 +19,10 @@ export default function qrcode() {
         }}
       >
         <div>
-          <p style={{
+        <p style={{
               marginTop: "15px",
             }}>
-            {translate({
-              id: 'pages.qrcode.instructions.add',
-              message: '添加下方微信号，备注“HackWay”邀请进群',
-            })}
+            添加下方微信号，备注“<strong>HackWay</strong>”邀请进群
           </p>
           <img
             style={{
@@ -49,10 +39,7 @@ export default function qrcode() {
           <p style={{
               marginTop: "15px",
             }}>
-            {translate({
-              id: 'pages.qrcode.instructions.scan',
-              message: '扫码加好友，或搜索“lidongbbsky”',
-            })}
+            扫码加好友，或搜索“<strong>lidongbbsky</strong>”
           </p>
         </div>
       </div>
