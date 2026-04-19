@@ -5,8 +5,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'HackWay技术学习路线',
-  tagline: '为大学生、程序员自学系统的计算机专业知识、编程语言提供循序渐进的学习路线、资源以及交流社区',
+  title: 'HackWay 技术学习路线 / Learning Paths',
+  tagline:
+    '面向大学生与程序员的系统化学习路线、资源与社区 / Structured learning paths, resources, and community for students and developers',
   url: 'https://hackway.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -17,7 +18,17 @@ const config = {
 
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    locales: ['zh-Hans', 'en'],
+    localeConfigs: {
+      'zh-Hans': {
+        label: '中文',
+        htmlLang: 'zh-CN',
+      },
+      en: {
+        label: 'English',
+        htmlLang: 'en-US',
+      },
+    },
   },
 
   presets: [
@@ -66,44 +77,44 @@ const config = {
         items: [
           {
             type: 'dropdown',
-            label: '计算机专业',
+            label: '计算机专业 / CS',
             position: 'left',
             items:[ {
               to: 'docs/cs/intro',
-              label: '六大CS名校',
+              label: '六大CS名校 / Top CS Schools',
 
             },
             {
               to: 'docs/math/intro',
-              label: '大学数学',
+              label: '大学数学 / Math',
             },
             {
               to: 'docs/ai/intro',
-              label: '人工智能',
+              label: '人工智能 / AI',
             },
             ]
           },
 
           {
             type: 'dropdown',
-            label: '职业方向',
+            label: '职业方向 / Careers',
             position: 'left',
             items: [
               {
                 to: 'docs/java/intro',
-                label: 'Java后端',
+                label: 'Java后端 / Java Backend',
               },
               {
                 to: 'docs/cpp/intro',
-                label: 'C++开发',
+                label: 'C++开发 / C++',
               },
               {
                 to: 'docs/js/intro',
-                label: 'JS/TS前端',
+                label: 'JS/TS前端 / JS/TS Frontend',
               },
               {
                 to: 'docs/devops/intro',
-                label: '运维工程师',
+                label: '运维工程师 / DevOps',
               },
      
 
@@ -111,20 +122,23 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: '资源与经验',
+            label: '资源与经验 / Resources',
             position: 'left',
             items: [
               {
                 to: 'docs/source/intro',
-                label: '资源工具',
+                label: '资源工具 / Tools',
               },  
               {
                 to: 'docs/expert/intro',
-                label: '大佬经验',
+                label: '大佬经验 / Expert Notes',
               },
             ],
           },
-
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -170,7 +184,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} HackWay技术学习路线`,
+        copyright: `Copyright © ${new Date().getFullYear()} HackWay 技术学习路线 / Learning Paths`,
       },
       prism: {
         theme: prismThemes.vsDark,
@@ -180,7 +194,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '🐝 技术交流群，点击 <a target="_blank" rel="noopener noreferrer" href="https://hackway.org/qrcode">加入交流群</a> 获取加群方式',
+          '🐝 技术交流群 / Community: <a target="_blank" rel="noopener noreferrer" href="https://hackway.org/qrcode">加入交流群 / Join the group</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: false,

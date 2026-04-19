@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import {translate} from '@docusaurus/Translate';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
@@ -22,8 +23,15 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`计算机专业学习路线`}
-      description="HackWay为计算机专业学生、程序员自学系统的计算机专业知识、编程语言提供循序渐进的学习路线、资源以及交流社区">
+      title={translate({
+        id: 'pages.home.meta.title',
+        message: '计算机专业学习路线',
+      })}
+      description={translate({
+        id: 'pages.home.meta.description',
+        message:
+          'HackWay为计算机专业学生、程序员自学系统的计算机专业知识、编程语言提供循序渐进的学习路线、资源以及交流社区',
+      })}>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
